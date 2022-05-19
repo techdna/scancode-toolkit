@@ -9,7 +9,6 @@
 #
 
 import ast
-from distutils.core import setup
 import io
 import json
 import logging
@@ -18,7 +17,6 @@ import re
 import sys
 import zipfile
 from configparser import ConfigParser
-from io import StringIO
 from pathlib import Path
 
 import dparse2
@@ -172,7 +170,12 @@ class BaseExtractedPythonLayout(BasePypiHandler):
             setup_resources = []
             if resource.has_parent():
                 siblings = resource.siblings(codebase)
-                setup_resources = [r for r in siblings if r.name in ('setup.py', 'setup.cfg')]
+                setup_resources = [
+                    r for r in siblings
+                    if r.name in ('setup.py', 'setup.cfg')
+                    and r.package_data
+                ]
+
                 setup_package_data = [
                     (setup_resource, models.PackageData.from_dict(setup_resource.package_data[0]))
                     for setup_resource in setup_resources
@@ -264,6 +267,14 @@ class PythonSdistPkgInfoFile(BaseExtractedPythonLayout):
     path_patterns = ('*/PKG-INFO',)
     description = 'PyPI extracted sdist PKG-INFO'
     documentation_url = 'https://peps.python.org/pep-0314/'
+
+    @classmethod
+    def is_datafile(cls, location):
+        return (
+            super().is_datafile(location) and
+            not PythonEggPkgInfoFile.is_datafile(location) and
+            not PythonEditableInstallationPkgInfoFile.is_datafile(location)
+        )
 
     @classmethod
     def parse(cls, location):
@@ -661,12 +672,11 @@ class SetupCfgHandler(BaseExtractedPythonLayout):
     def parse(cls, location):
         file_name = fileutils.file_name(location)
 
-        with open(location) as f:
-            content = f.read()
-
         metadata = {}
         parser = ConfigParser()
-        parser.readfp(StringIO(content))
+        with open(location) as f:
+            parser.read_file(f)
+
         for section in parser.values():
             if section.name == 'metadata':
                 options = (
