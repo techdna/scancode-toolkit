@@ -18,16 +18,16 @@ license_detections:
         rule_identifier: gpl-2.0-plus_306.RULE
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/gpl-2.0-plus_306.RULE
         matched_text: "The keys in the keyrings don't fall under any copyright.  Everything\n\
-          else in the package is covered by the GNU GPL.\n\nDebian support files Copyright (C)\
+          else in the package is covered by the GNU GPL.\nDebian support files Copyright (C)\
           \ 2006 Michael Vogt <mvo@debian.org> \nbased on the debian-keyring package maintained\
-          \ by James Troup \n\nDebian support files for debian-archive-keyring are free software;\
+          \ by James Troup \nDebian support files for debian-archive-keyring are free software;\
           \ you\ncan redistribute them and/or modify them under the terms of the GNU\nGeneral\
           \ Public License as published by the Free Software Foundation;\neither version 2,\
-          \ or (at your option) any later version.\n\nDebian support files for debian-archive-keyring\
+          \ or (at your option) any later version.\nDebian support files for debian-archive-keyring\
           \ are distributed in the\nhope that they will be useful, but WITHOUT ANY WARRANTY;\
           \ without even\nthe implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR\n\
-          PURPOSE.  See the GNU General Public License for more details.\n\nYou should have\
-          \ received a copy of the GNU General Public License with\nyour Debian system, in /usr/share/common-licenses/GPL,\
+          PURPOSE.  See the GNU General Public License for more details.\nYou should have received\
+          \ a copy of the GNU General Public License with\nyour Debian system, in /usr/share/common-licenses/GPL,\
           \ or with the\nDebian GNU debian-archive-keyring source package as the file COPYING.\n\
           If not, write to the Free Software Foundation, Inc., 51 Franklin Street,\nFifth Floor,\
           \ Boston, MA 02110-1301 USA."

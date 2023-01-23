@@ -73,13 +73,12 @@ license_detections:
           microcode software are permitted provided that the following conditions
           are met:
           1. Redistribution of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistribution in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           3. The name of 3Com may not be used to endorse or promote products
-             derived from this software without specific prior written permission
-
+          derived from this software without specific prior written permission
           THIS SOFTWARE IS PROVIDED BY 3COM ``AS IS'' AND ANY EXPRESS OR
           IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
           OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
@@ -90,7 +89,6 @@ license_detections:
           THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
           (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
           THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
           USER ACKNOWLEDGES AND AGREES THAT PURCHASE OR USE OF THE 3c990img.h
           MICROCODE SOFTWARE WILL NOT CREATE OR GIVE GROUNDS FOR A LICENSE BY
           IMPLICATION, ESTOPPEL, OR OTHERWISE IN ANY INTELLECTUAL PROPERTY RIGHTS
@@ -133,27 +131,20 @@ license_detections:
           which you should read carefully before using the software.  Using this
           software indicates your acceptance of these terms and conditions.  If you do
           not agree with these terms and conditions, do not use the software.
-
           All rights reserved.
-
           Redistribution and use in source or binary forms, with or without
           modifications, are permitted provided that the following conditions are met:
-
-           Redistributions of source code must retain the above copyright notice, this
-             list of conditions and the following Disclaimer as comments in the code as
-             well as in the documentation and/or other materials provided with the
-             distribution.
-
-           Redistributions in binary form must reproduce the above copyright notice,
-             this list of conditions and the following Disclaimer in the documentation
-             and/or other materials provided with the distribution.
-
-           Neither the name of Agere Systems Inc. nor the names of the contributors
-             may be used to endorse or promote products derived from this software
-             without specific prior written permission.
-
+          Redistributions of source code must retain the above copyright notice, this
+          list of conditions and the following Disclaimer as comments in the code as
+          well as in the documentation and/or other materials provided with the
+          distribution.
+          Redistributions in binary form must reproduce the above copyright notice,
+          this list of conditions and the following Disclaimer in the documentation
+          and/or other materials provided with the distribution.
+          Neither the name of Agere Systems Inc. nor the names of the contributors
+          may be used to endorse or promote products derived from this software
+          without specific prior written permission.
           Disclaimer
-
           THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
           INCLUDING, BUT NOT LIMITED TO, INFRINGEMENT AND THE IMPLIED WARRANTIES OF
           MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  ANY
@@ -184,7 +175,6 @@ license_detections:
           any purpose with or without fee is hereby granted, provided that the
           above copyright notice and this permission notice appear in all
           copies.
-
           THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL
           WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED
           WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE
@@ -210,17 +200,15 @@ license_detections:
           Redistribution.  Redistribution and use in binary form, without
           modification, are permitted provided that the following conditions are
           met:
-
           * Redistributions must reproduce the above copyright notice and the
-            following disclaimer in the documentation and/or other materials
-            provided with the distribution.
+          following disclaimer in the documentation and/or other materials
+          provided with the distribution.
           * Neither the name of Creative Technology Ltd or its affiliates ("CTL")
-            nor the names of its suppliers may be used to endorse or promote
-            products derived from this software without specific prior written
-            permission.
+          nor the names of its suppliers may be used to endorse or promote
+          products derived from this software without specific prior written
+          permission.
           * No reverse engineering, decompilation, or disassembly of this software
-            (or any part thereof) is permitted.
-
+          (or any part thereof) is permitted.
           Limited patent license. CTL grants a limited, world-wide,
           royalty-free, non-exclusive license under patents it now or hereafter
           owns or controls to make, have made, use, import, offer to sell and
@@ -231,7 +219,6 @@ license_detections:
           http://opensource.org/licenses.  The patent license shall not be
           applicable, to any other combinations which include this software.
           No hardware per se is licensed hereunder.
-
           DISCLAIMER.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
           CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
           BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
@@ -244,7 +231,6 @@ license_detections:
           TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
           USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
           DAMAGE.
-
           NO OTHER RIGHTS GRANTED. USER HEREBY ACKNOWLEDGES AND AGREES THAT USE OF
           THIS SOFTWARE SHALL NOT CREATE OR GIVE GROUNDS FOR A LICENSE BY
           IMPLICATION, ESTOPPEL, OR OTHERWISE TO ANY INTELLECTUAL PROPERTY RIGHTS
@@ -285,16 +271,13 @@ license_detections:
           Redistribution and use in source and binary forms, with or
           without modification, are permitted provided that the following
           conditions are met:
-
-           - Redistributions of source code must retain the above
-             copyright notice, this list of conditions and the following
-             disclaimer.
-
-           - Redistributions in binary form must reproduce the above
-             copyright notice, this list of conditions and the following
-             disclaimer in the documentation and/or other materials
-             provided with the distribution.
-
+          - Redistributions of source code must retain the above
+          copyright notice, this list of conditions and the following
+          disclaimer.
+          - Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials
+          provided with the distribution.
           THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
           EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
           MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
@@ -319,17 +302,15 @@ license_detections:
         matched_text: |
           Redistribution and use in binary form, without modification, are
           permitted provided that the following conditions are met:
-
           1. Redistribution in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in
-             the documentation and/or other materials provided with the
-             distribution.
+          notice, this list of conditions and the following disclaimer in
+          the documentation and/or other materials provided with the
+          distribution.
           2. The name of Chelsio Communications may not be used to endorse or
-             promote products derived from this software without specific prior
-             written permission.
+          promote products derived from this software without specific prior
+          written permission.
           3. Reverse engineering, decompilation, or disassembly of this
-             firmware is not permitted.
-
+          firmware is not permitted.
           DISCLAIMER.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
           CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
           BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
@@ -377,7 +358,6 @@ license_detections:
           for use with Xceive ICs, for any purpose with or without fee is hereby
           granted, provided that the above copyright notice and this permission
           notice appear in all source code copies.
-
           THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
           WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
           MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
@@ -403,7 +383,6 @@ license_detections:
           any purpose with or without fee is hereby granted, provided that the
           above copyright notice and this permission notice appear in all
           copies.
-
           THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL
           WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED
           WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE
@@ -430,7 +409,6 @@ license_detections:
           any purpose with or without fee is hereby granted, provided that the
           above copyright notice and this permission notice appear in all
           copies.
-
           THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL
           WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED
           WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE
@@ -457,7 +435,6 @@ license_detections:
           files for use with TERRATEC devices, but not as part of the Linux
           kernel or in any other form which would require these files themselves
           to be covered by the terms of the GNU General Public License.
-
           These firmware files are distributed in the hope that they will be
           useful, but WITHOUT ANY WARRANTY; without even the implied warranty
           of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
@@ -477,18 +454,14 @@ license_detections:
         matched_text: |
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions are met:
-
-           1. Redistributions of source code must retain the above copyright notice,
-              this list of conditions and the following disclaimer.
-
-           2. Redistributions in binary form must reproduce the above copyright notice,
-              this list of conditions and the following disclaimer in the documentation
-              and/or other materials provided with the distribution.
-
-           3. Neither the name of Intel Corporation nor the names of its contributors
-              may be used to endorse or promote products derived from this software
-              without specific prior written permission.
-
+          1. Redistributions of source code must retain the above copyright notice,
+          this list of conditions and the following disclaimer.
+          2. Redistributions in binary form must reproduce the above copyright notice,
+          this list of conditions and the following disclaimer in the documentation
+          and/or other materials provided with the distribution.
+          3. Neither the name of Intel Corporation nor the names of its contributors
+          may be used to endorse or promote products derived from this software
+          without specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ``AS IS''
           AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
@@ -516,7 +489,6 @@ license_detections:
           Permission to use, copy, modify, and/or distribute this software for any
           purpose with or without fee is hereby granted, provided that the above
           copyright notice and this permission notice appear in all copies.
-
           THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL
           WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT
@@ -563,7 +535,6 @@ license_detections:
           The firmware files included in the firmware/ directory may be freely
           redistributed only in conjunction with this document [LICENCE.go7007];
           but modification, tampering and reverse engineering are prohibited.
-
           MICRONAS USA, INC., MAKES NO WARRANTIES TO ANY PERSON OR ENTITY WITH
           RESPECT TO THE SOFTWARE OR ANY DERIVATIVES THEREOF OR ANY SERVICES OR
           LICENSES AND DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WITHOUT LIMITATION
@@ -584,29 +555,24 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/intel_2.RULE
         matched_text: |
           Redistribution.
-
           Redistribution and use in binary form, without modification, are permitted
           provided that the following conditions are met:
           *    Redistributions must reproduce the above copyright notice and the
-               following disclaimer in the documentation and/or other materials provided
-               with the distribution.
+          following disclaimer in the documentation and/or other materials provided
+          with the distribution.
           *    Neither the name of Intel Corporation nor the names of its suppliers may
-               be used to endorse or promote products derived from this software without
-               specific prior written permission.
+          be used to endorse or promote products derived from this software without
+          specific prior written permission.
           *    No reverse engineering, decompilation, or disassembly of this software is
-               permitted.
-
+          permitted.
           Limited patent license.
-
           Intel Corporation grants a world-wide, royalty-free, non-exclusive license
           under patents it now or hereafter owns or controls to make, have made, use,
           import, offer to sell and sell (“Utilize”) this software, but solely to the
           extent that any such patent is necessary to Utilize the software alone. The
           patent license shall not apply to any combinations which include this software.
           No hardware per se is licensed hereunder.
-
           DISCLAIMER.
-
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
           WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
@@ -634,18 +600,14 @@ license_detections:
           Redistribution. Reproduction and redistribution in binary form, without
           modification, for use solely in conjunction with a NXP
           chipset, is permitted provided that the following conditions are met:
-
-            . Redistributions must reproduce the above copyright notice and the following
-              disclaimer in the documentation and/or other materials provided with the
-              distribution.
-
-            . Neither the name of NXP nor the names of its suppliers
-              may be used to endorse or promote products derived from this Software
-              without specific prior written permission.
-
-            . No reverse engineering, decompilation, or disassembly of this Software is
-              permitted.
-
+          . Redistributions must reproduce the above copyright notice and the following
+          disclaimer in the documentation and/or other materials provided with the
+          distribution.
+          . Neither the name of NXP nor the names of its suppliers
+          may be used to endorse or promote products derived from this Software
+          without specific prior written permission.
+          . No reverse engineering, decompilation, or disassembly of this Software is
+          permitted.
           Limited patent license. NXP (.Licensor.) grants you
           (.Licensee.) a limited, worldwide, royalty-free, non-exclusive license under
           the Patents to make, have made, use, import, offer to sell and sell the
@@ -663,7 +625,6 @@ license_detections:
           patent application owned by any affiliate of Licensor or any other entity
           (other than Licensor), whether expressly, impliedly, by virtue of estoppel or
           exhaustion, or otherwise.
-
           DISCLAIMER. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
           CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
           BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
@@ -693,17 +654,16 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           3. All advertising materials mentioning features or use of this software
-             must display the following acknowledgement:
+          must display the following acknowledgement:
           This product includes software developed by Kawasaki LSI.
           4. Neither the name of the company nor the names of its contributors
-             may be used to endorse or promote products derived from this software
-             without specific prior written permission.
-
+          may be used to endorse or promote products derived from this software
+          without specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY KAWASAKI LSI ``AS IS'' AND ANY EXPRESS OR
           IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
           WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
@@ -735,10 +695,8 @@ license_detections:
           the rights to use, copy, modify, merge, publish, distribute, sublicense,
           and/or sell copies of the Software, and to permit persons to whom the
           Software is furnished to do so, subject to the following conditions:
-
           The above copyright notice and this permission notice shall be included
           in all copies or substantial portions of the Software.
-
           THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
           OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
           FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL
@@ -767,14 +725,13 @@ license_detections:
           Agreement or possession of the Software. Therefore, you must treat
           the Licensed Software like any other copyrighted material. Your
           rights and obligations in its use are described as follows:
-
           1. You may freely redistribute this software under this license.
           2. You may freely download and use this software on Moxa's device.
           3. You may not modify or attempt to reverse engineer the software, or
-             make any attempt to change or even examine the source code of the
-             software.
+          make any attempt to change or even examine the source code of the
+          software.
           4. You may not re-license or sub-license the software to any person or
-             business, using any other license.
+          business, using any other license.
           5. Moxa(r) is worldwide registered trademark.
   - license_expression: ralink-firmware
     detection_log:
@@ -793,16 +750,14 @@ license_detections:
           Redistribution.  Redistribution and use in binary form, without
           modification, are permitted provided that the following conditions are
           met:
-
           * Redistributions must reproduce the above copyright notice and the
-            following disclaimer in the documentation and/or other materials
-            provided with the distribution.
+          following disclaimer in the documentation and/or other materials
+          provided with the distribution.
           * Neither the name of Ralink Technology Corporation nor the names of its
-            suppliers may be used to endorse or promote products derived from this
-            software without specific prior written permission.
+          suppliers may be used to endorse or promote products derived from this
+          software without specific prior written permission.
           * No reverse engineering, decompilation, or disassembly of this software
-            is permitted.
-
+          is permitted.
           Limited patent license. Ralink Technology Corporation grants a world-wide,
           royalty-free, non-exclusive license under patents it now or hereafter
           owns or controls to make, have made, use, import, offer to sell and
@@ -813,7 +768,6 @@ license_detections:
           http://opensource.org/licenses.  The patent license shall not apply to
           any other combinations which include this software.  No hardware per
           se is licensed hereunder.
-
           DISCLAIMER.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
           CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
           BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
@@ -862,9 +816,7 @@ license_detections:
           or otherwise using the SOFTWARE, you agree to be bound by the terms
           of this LICENSE.  If you do not agree to the terms of this LICENSE,
           do not download the SOFTWARE.
-
           RECITALS
-
           Use of NVIDIA's products requires three elements: the SOFTWARE, the
           hardware, and a personal computer. The SOFTWARE is protected by copyright
           laws and international copyright treaties, as well as other intellectual
@@ -874,64 +826,48 @@ license_detections:
           patents, and is sold, but this agreement does not cover that sale, since
           it may not necessarily be sold as a package with the SOFTWARE.  This
           agreement sets forth the terms and conditions of the SOFTWARE LICENSE only.
-
           1.  DEFINITIONS
-
           1.1  Customer.  Customer means the entity or individual that
           downloads or otherwise obtains the SOFTWARE.
-
           2.  GRANT OF LICENSE
-
           2.1  Rights and Limitations of Grant.  NVIDIA hereby grants Customer
           the following non-exclusive, non-transferable right to use the
           SOFTWARE, with the following limitations:
-
           2.1.1  Rights.  Customer may install and use multiple copies of the
           SOFTWARE on a shared computer or concurrently on different computers,
           and make multiple back-up copies of the SOFTWARE, solely for Customer's
           use within Customer's Enterprise. "Enterprise" shall mean individual use
           by Customer or any legal entity (such as a corporation or university)
           and the subsidiaries it owns by more than fifty percent (50%).
-
           2.1.2  Open Source Exception.  Notwithstanding the foregoing terms
           of Section 2.1.1, SOFTWARE may be copied and redistributed solely for
           use on operating systems distributed under the terms of an OSI-approved
           open source license as listed by the Open Source Initiative at
           http://opensource.org, provided that the binary files thereof are not
           modified, and Customer provides a copy of this license with the SOFTWARE.
-
           2.1.3  Limitations.
-
           No Reverse Engineering.  Customer may not reverse engineer,
           decompile, or disassemble the SOFTWARE, nor attempt in any other
           manner to obtain the source code.
-
           Usage. SOFTWARE is licensed only for use with microprocessor(s) which have
           been (i) designed by NVIDIA and (ii) either (a) sold by or (b) licensed by
           NVIDIA. Customer shall not use SOFTWARE in conjunction with, nor cause
           SOFTWARE to be executed by, any other microprocessor.
-
           No Translation. Customer shall not translate SOFTWARE, nor cause or permit
           SOFTWARE to be translated, from the architecture or language in which it is
           originally provided by NVIDIA, into any other architecture or language.
-
           No Rental.  Customer may not rent or lease the SOFTWARE to someone
           else.
-
           3.  TERMINATION
-
           This LICENSE will automatically terminate if Customer fails to
           comply with any of the terms and conditions hereof.  In such event,
           Customer must destroy all copies of the SOFTWARE and all of its
           component parts.
-
           Defensive Suspension.  If Customer commences or participates in any legal
           proceeding against NVIDIA, then NVIDIA may, in its sole discretion,
           suspend or terminate all license grants and any other rights provided
           under this LICENSE during the pendency of such legal proceedings.
-
           4.  COPYRIGHT
-
           All title and copyrights in and to the SOFTWARE (including but
           not limited to all images, photographs, animations, video, audio,
           music, text, and other information incorporated into the SOFTWARE),
@@ -942,20 +878,15 @@ license_detections:
           material, except as otherwise allowed pursuant to this LICENSE
           and that it may make one copy of the SOFTWARE solely for backup or
           archive purposes.
-
           5.  APPLICABLE LAW
-
           This agreement shall be deemed to have been made in, and shall be
           construed pursuant to, the laws of the State of California.
-
           6.  DISCLAIMER OF WARRANTIES AND LIMITATION ON LIABILITY
-
           6.1  No Warranties.  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
           LAW, THE SOFTWARE IS PROVIDED "AS IS" AND NVIDIA AND ITS SUPPLIERS
           DISCLAIM ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT
           NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
           FOR A PARTICULAR PURPOSE.
-
           6.2  No Liability for Consequential Damages.  TO THE MAXIMUM
           EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL NVIDIA OR
           ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR
@@ -964,9 +895,7 @@ license_detections:
           OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT
           OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF NVIDIA HAS
           BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-
           7.  MISCELLANEOUS
-
           The United Nations Convention on Contracts for the International
           Sale of Goods is specifically disclaimed.  If any provision of this
           LICENSE is inconsistent with, or cannot be fully enforced under,
@@ -998,18 +927,14 @@ license_detections:
           Redistribution.  Redistribution and use in binary form, without
           modification, are permitted provided that the following conditions are
           met:
-
           * Redistributions must reproduce the above copyright notice and the
-            following disclaimer in the documentation and/or other materials
-            provided with the distribution.
-
+          following disclaimer in the documentation and/or other materials
+          provided with the distribution.
           * Neither the name of Fuzhou Rockchip Electronics Co.Ltd, its products
-            nor the names of its suppliers may be used to endorse or promote products
-            derived from this Software without specific prior written permission.
-
+          nor the names of its suppliers may be used to endorse or promote products
+          derived from this Software without specific prior written permission.
           * No reverse engineering, decompilation, or disassembly of this software
-            is permitted.
-
+          is permitted.
           Limited patent license. Fuzhou Rockchip Electronics Co.Ltd grants a world-wide,
           royalty-free, non-exclusive license under patents it now or hereafter
           owns or controls to make, have made, use, import, offer to sell and
@@ -1020,7 +945,6 @@ license_detections:
           http://opensource.org/licenses.  The patent license shall not apply to
           any other combinations which include this software.  No hardware per
           se is licensed hereunder.
-
           DISCLAIMER.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
           CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
           BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
@@ -1051,7 +975,6 @@ license_detections:
           files for use with Comtrol devices, but not as part of the Linux
           kernel or in any other form which would require these files themselves
           to be covered by the terms of the GNU General Public License.
-
           These firmware files are distributed in the hope that they will be
           useful, but WITHOUT ANY WARRANTY; without even the implied warranty
           of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
@@ -1072,16 +995,14 @@ license_detections:
           Redistribution.  Redistribution and use in binary form, without
           modification, are permitted provided that the following conditions are
           met:
-
           * Redistributions must reproduce the above copyright notice and the
-            following disclaimer in the documentation and/or other materials
-            provided with the distribution.
+          following disclaimer in the documentation and/or other materials
+          provided with the distribution.
           * Neither the name of Ralink Technology Corporation nor the names of its
-            suppliers may be used to endorse or promote products derived from this
-            software without specific prior written permission.
+          suppliers may be used to endorse or promote products derived from this
+          software without specific prior written permission.
           * No reverse engineering, decompilation, or disassembly of this software
-            is permitted.
-
+          is permitted.
           Limited patent license. Ralink Technology Corporation grants a world-wide,
           royalty-free, non-exclusive license under patents it now or hereafter
           owns or controls to make, have made, use, import, offer to sell and
@@ -1092,7 +1013,6 @@ license_detections:
           http://opensource.org/licenses.  The patent license shall not apply to
           any other combinations which include this software.  No hardware per
           se is licensed hereunder.
-
           DISCLAIMER.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
           CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
           BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
@@ -1156,19 +1076,15 @@ license_detections:
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following
           conditions are met:
-
           * Redistribution of source code must retain the above copyright
           notice, this list of conditions and the following disclaimer.
-
           * Redistribution in binary form must reproduce the above
           copyright notice, this list of conditions and the following
           disclaimer in the documentation and/or other materials provided
           with the distribution.
-
           * The name of Ikanos Corporation may not be used to endorse
-            or promote products derived from this source code without specific
-            prior written consent of Ikanos Corporation.
-
+          or promote products derived from this source code without specific
+          prior written consent of Ikanos Corporation.
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
           "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
           LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
@@ -1224,16 +1140,14 @@ license_detections:
           Redistribution.  Redistribution and use in binary form, without
           modification, are permitted provided that the following conditions are
           met:
-
           * Redistributions must reproduce the above copyright notice and the
-            following disclaimer in the documentation and/or other materials
-            provided with the distribution.
+          following disclaimer in the documentation and/or other materials
+          provided with the distribution.
           * Neither the name of Intel Corporation nor the names of its suppliers
-            may be used to endorse or promote products derived from this software
-            without specific prior written permission.
+          may be used to endorse or promote products derived from this software
+          without specific prior written permission.
           * No reverse engineering, decompilation, or disassembly of this software
-            is permitted.
-
+          is permitted.
           Limited patent license.  Intel Corporation grants a world-wide,
           royalty-free, non-exclusive license under patents it now or hereafter
           owns or controls to make, have made, use, import, offer to sell and
@@ -1244,7 +1158,6 @@ license_detections:
           http://opensource.org/licenses.  The patent license shall not apply to
           any other combinations which include this software.  No hardware per
           se is licensed hereunder.
-
           DISCLAIMER.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
           CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
           BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND

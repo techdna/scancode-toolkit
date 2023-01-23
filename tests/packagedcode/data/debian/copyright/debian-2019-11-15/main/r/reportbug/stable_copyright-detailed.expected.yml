@@ -20,21 +20,21 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/reportbug_1.RULE
         matched_text: |
           License: other
-              # This program is freely distributable per the following license:
-              #
-              #  Permission to use, copy, modify, and distribute this software and its
-              #  documentation for any purpose and without fee is hereby granted,
-              #  provided that the above copyright notice appears in all copies and that
-              #  both that copyright notice and this permission notice appear in
-              #  supporting documentation.
-              #
-              #  I DISCLAIM ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL
-              #  IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, IN NO EVENT SHALL I
-              #  BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY
-              #  DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
-              #  WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
-              #  ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS
-              #  SOFTWARE.
+          # This program is freely distributable per the following license:
+          #
+          #  Permission to use, copy, modify, and distribute this software and its
+          #  documentation for any purpose and without fee is hereby granted,
+          #  provided that the above copyright notice appears in all copies and that
+          #  both that copyright notice and this permission notice appear in
+          #  supporting documentation.
+          #
+          #  I DISCLAIM ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL
+          #  IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, IN NO EVENT SHALL I
+          #  BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY
+          #  DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+          #  WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
+          #  ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS
+          #  SOFTWARE.
   - license_expression: gpl-1.0-plus
     detection_log:
       - not-combined
@@ -50,11 +50,11 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/gpl_77.RULE
         matched_text: |
           License: GPL-any
-              # You may freely redistribute, use and modify this software under the terms
-              # of the GNU General Public License.
-              .
-              On Debian systems, the complete text of the GNU General Public License
-              can be found in file "/usr/share/common-licenses/GPL".
+          # You may freely redistribute, use and modify this software under the terms
+          # of the GNU General Public License.
+          .
+          On Debian systems, the complete text of the GNU General Public License
+          can be found in file "/usr/share/common-licenses/GPL".
   - license_expression: reportbug AND gpl-2.0
     detection_log:
       - not-combined
@@ -70,21 +70,21 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/reportbug_1.RULE
         matched_text: |
           License: other
-              # This program is freely distributable per the following license:
-              #
-              ##  Permission to use, copy, modify, and distribute this software and its
-              ##  documentation for any purpose and without fee is hereby granted,
-              ##  provided that the above copyright notice appears in all copies and that
-              ##  both that copyright notice and this permission notice appear in
-              ##  supporting documentation.
-              ##
-              ##  I DISCLAIM ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL
-              ##  IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, IN NO EVENT SHALL I
-              ##  BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY
-              ##  DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
-              ##  WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
-              ##  ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS
-              ##  SOFTWARE.
+          # This program is freely distributable per the following license:
+          #
+          ##  Permission to use, copy, modify, and distribute this software and its
+          ##  documentation for any purpose and without fee is hereby granted,
+          ##  provided that the above copyright notice appears in all copies and that
+          ##  both that copyright notice and this permission notice appear in
+          ##  supporting documentation.
+          ##
+          ##  I DISCLAIM ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL
+          ##  IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, IN NO EVENT SHALL I
+          ##  BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY
+          ##  DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+          ##  WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
+          ##  ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS
+          ##  SOFTWARE.
       - score: '100.0'
         start_line: 61
         end_line: 61

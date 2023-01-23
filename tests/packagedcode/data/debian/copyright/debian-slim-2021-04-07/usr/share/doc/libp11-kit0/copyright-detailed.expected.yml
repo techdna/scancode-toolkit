@@ -38,13 +38,12 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/fsf-unlimited-no-warranty.RULE
         matched_text: |
           This file is free software; as a special exception the author gives
-            unlimited permission to copy and/or distribute it, with or without
-            modifications, as long as this notice is preserved.
-
-            This file is distributed in the hope that it will be useful, but
-            WITHOUT ANY WARRANTY, to the extent permitted by law; without even
-            the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
-            PURPOSE.  */
+          unlimited permission to copy and/or distribute it, with or without
+          modifications, as long as this notice is preserved.
+          This file is distributed in the hope that it will be useful, but
+          WITHOUT ANY WARRANTY, to the extent permitted by law; without even
+          the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
+          PURPOSE.  */
   - license_expression: isc
     detection_log:
       - not-combined
@@ -62,7 +61,6 @@ other_license_detections:
           Permission to use, copy, modify, and/or distribute this software for any
           purpose with or without fee is hereby granted, provided that the above
           copyright notice and this permission notice appear in all copies.
-
           THE SOFTWARE IS PROVIDED "AS IS" AND ISC DISCLAIMS ALL WARRANTIES WITH
           REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
           AND FITNESS.  IN NO EVENT SHALL ISC BE LIABLE FOR ANY SPECIAL, DIRECT,
@@ -87,7 +85,6 @@ other_license_detections:
           Permission to use, copy, modify, and distribute this software for any
           purpose with or without fee is hereby granted, provided that the above
           copyright notice and this permission notice appear in all copies.
-
           THE SOFTWARE IS PROVIDED "AS IS" AND INTERNET SOFTWARE CONSORTIUM DISCLAIMS
           ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES
           OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL INTERNET SOFTWARE
@@ -113,13 +110,11 @@ other_license_detections:
           not be used in connection with the marketing of any product incorporating
           the Software or modifications thereof, without specific, written prior
           permission.
-
           To the extent it has a right to do so, IBM grants an immunity from suit
           under its patents, if any, for the use, sale or manufacture of products to
           the extent that such products are used for performing Domain Name System
           dynamic updates in TCP/IP networks by means of the Software.  No immunity is
           granted for any product per se or for any other function of any product.
-
           THE SOFTWARE IS PROVIDED "AS IS", AND IBM DISCLAIMS ALL WARRANTIES,
           INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
           PARTICULAR PURPOSE.  IN NO EVENT SHALL IBM BE LIABLE FOR ANY SPECIAL,
@@ -158,14 +153,13 @@ other_license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           3. Neither the name of the University nor the names of its contributors
-             may be used to endorse or promote products derived from this software
-             without specific prior written permission.
-
+          may be used to endorse or promote products derived from this software
+          without specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE

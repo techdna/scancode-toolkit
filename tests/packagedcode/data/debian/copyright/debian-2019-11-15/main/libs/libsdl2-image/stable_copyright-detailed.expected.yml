@@ -29,12 +29,10 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/unlicense_6.RULE
         matched_text: |
           This is free and unencumbered software released into the public domain.
-
           Anyone is free to copy, modify, publish, use, compile, sell, or
           distribute this software, either in source code form or as a compiled
           binary, for any purpose, commercial or non-commercial, and by any
           means.
-
           In jurisdictions that recognize copyright laws, the author or authors
           of this software dedicate any and all copyright interest in the
           software to the public domain. We make this dedication for the benefit
@@ -42,7 +40,6 @@ other_license_detections:
           successors. We intend this dedication to be an overt act of
           relinquishment in perpetuity of all present and future rights to this
           software under copyright law.
-
           THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
           EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
           MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
@@ -67,17 +64,15 @@ other_license_detections:
           This software is provided 'as-is', without any express or implied
           warranty.  In no event will the authors be held liable for any damages
           arising from the use of this software.
-
           Permission is granted to anyone to use this software for any purpose,
           including commercial applications, and to alter it and redistribute it
           freely, subject to the following restrictions:
-
           1. The origin of this software must not be misrepresented; you must not
-             claim that you wrote the original software. If you use this software
-             in a product, an acknowledgment in the product documentation would be
-             appreciated but is not required.
+          claim that you wrote the original software. If you use this software
+          in a product, an acknowledgment in the product documentation would be
+          appreciated but is not required.
           2. Altered source versions must be plainly marked as such, and must not be
-             misrepresented as being the original software.
+          misrepresented as being the original software.
           3. This notice may not be removed or altered from any source distribution.
   - license_expression: lgpl-2.0-plus AND lgpl-2.1-plus
     detection_log:
@@ -107,7 +102,6 @@ other_license_detections:
           it under the terms of the GNU Lesser General Public License as published by
           the Free Software Foundation; either version 2.1 of the License, or (at
           your option) any later version.
-
           On Debian systems, the complete text of version 2 of the GNU Lesser
           General Public License can be found in '/usr/share/common-licenses/LGPL-2'.
 copyright: |

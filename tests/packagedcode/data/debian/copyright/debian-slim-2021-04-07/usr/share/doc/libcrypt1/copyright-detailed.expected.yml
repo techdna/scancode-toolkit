@@ -372,8 +372,8 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/free-unknown_120.RULE
         matched_text: |
           Copyright holders unknown, no statement of license (all of these
-             files are part of the testsuite and do not contribute to the
-             installed library or its headers):
+          files are part of the testsuite and do not contribute to the
+          installed library or its headers):
 other_license_detections: []
 copyright: |
   Copyright Thorsten Kukuk, Bjorn Esser, Zack Weinberg LGPL

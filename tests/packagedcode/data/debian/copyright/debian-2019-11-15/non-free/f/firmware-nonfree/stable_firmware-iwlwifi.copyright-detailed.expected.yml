@@ -21,16 +21,14 @@ license_detections:
           Redistribution.  Redistribution and use in binary form, without
           modification, are permitted provided that the following conditions are
           met:
-
           * Redistributions must reproduce the above copyright notice and the
-            following disclaimer in the documentation and/or other materials
-            provided with the distribution.
+          following disclaimer in the documentation and/or other materials
+          provided with the distribution.
           * Neither the name of Intel Corporation nor the names of its suppliers
-            may be used to endorse or promote products derived from this software
-            without specific prior written permission.
+          may be used to endorse or promote products derived from this software
+          without specific prior written permission.
           * No reverse engineering, decompilation, or disassembly of this software
-            is permitted.
-
+          is permitted.
           Limited patent license.  Intel Corporation grants a world-wide,
           royalty-free, non-exclusive license under patents it now or hereafter
           owns or controls to make, have made, use, import, offer to sell and
@@ -41,7 +39,6 @@ license_detections:
           http://opensource.org/licenses.  The patent license shall not apply to
           any other combinations which include this software.  No hardware per
           se is licensed hereunder.
-
           DISCLAIMER.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
           CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
           BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND

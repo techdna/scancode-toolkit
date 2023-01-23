@@ -20,7 +20,6 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/licenses/selinux-nsa-declaration-1.0.LICENSE
         matched_text: |
           This library (libselinux) is public domain software, i.e. not copyrighted.
-
           Warranty Exclusion
           ------------------
           You agree that this software is a
@@ -30,7 +29,6 @@ license_detections:
           disclaims all, warranties, express, implied, statutory, or otherwise
           with respect to the software, including noninfringement and the implied
           warranties of merchantability and fitness for a particular purpose.
-
           Limitation of Liability
           -----------------------
           In no event will NSA be liable for any damages, including loss of data,
@@ -55,7 +53,7 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/gpl-2.0_929.RULE
         matched_text: |
           distributed underthe terms of the GNU General Public License,
-           version 2.
+          version 2.
   - license_expression: lgpl-2.1-plus
     detection_log:
       - not-combined
@@ -74,13 +72,10 @@ license_detections:
           the terms of the GNU Lesser General Public License as published by the
           Free Software Foundation; either version 2.1 of the License, or (at
           your option) any later version.
-
           You should have received a copy of the GNU Lesser General Public
           License along with the GNU C Library; if not, write to
-                  Free Software Foundation, Inc., 51 Franklin St, Fifth Floor,
-                  Boston, MA 02110-1301, USA.
-
-
+          Free Software Foundation, Inc., 51 Franklin St, Fifth Floor,
+          Boston, MA 02110-1301, USA.
           On Debian systems, the complete text of the GNU Library
           General Public License can be found in `/usr/share/common-licenses/LGPL-2.1'.
   - license_expression: gpl-2.0
@@ -99,14 +94,12 @@ license_detections:
         matched_text: |
           distributed under the terms of the GNU
           General Public License, version 2.
-
           On Debian GNU/Linux systems, the complete text of the GNU General
           Public License can be found in `/usr/share/common-licenses/GPL-2'.
-
-              A copy of the GNU General Public License is also available at
-              <URL:http://www.gnu.org/copyleft/gpl.html>.  You may also obtain
-              it by writing to the Free Software Foundation, Inc., 51 Franklin
-              St, Fifth Floor, Boston, MA 02110-1301, USA.
+          A copy of the GNU General Public License is also available at
+          <URL:http://www.gnu.org/copyleft/gpl.html>.  You may also obtain
+          it by writing to the Free Software Foundation, Inc., 51 Franklin
+          St, Fifth Floor, Boston, MA 02110-1301, USA.
 other_license_detections: []
 copyright: |
   Copyright 2004 Red Hat, Inc., James Morris <jmorris@redhat.com>

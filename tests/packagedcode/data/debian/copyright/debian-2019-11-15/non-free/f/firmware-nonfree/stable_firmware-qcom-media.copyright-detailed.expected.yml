@@ -41,75 +41,67 @@ license_detections:
           YOU MUST DISCONTINUE THE INSTALLATION PROCESS AND YOU MAY NOT USE THE MATERIALS
           OR RETAIN ANY COPIES OF THE MATERIALS. ANY USE OR POSSESSION OF THE MATERIALS
           BY YOU IS SUBJECT TO THE TERMS AND CONDITIONS SET FORTH IN THIS AGREEMENT.
-
           1. RIGHT TO USE DELIVERABLES; RESTRICTIONS.
-
-            1.1 License.  Subject to the terms and conditions of this Agreement,
-            including, without limitation, the restrictions, conditions, limitations and
-            exclusions set forth in this Agreement, QTI hereby grants to you a
-            nonexclusive, limited license under QTI's copyrights to:  (i) install and use
-            the Materials; and (ii) to reproduce and redistribute the binary code portions
-            of the Materials (the "Redistributable Binary Code").  You may make and use a
-            reasonable number of copies of any documentation.
-
-            1.2 Redistribution Restrictions.  Distribution of the Redistributable Binary
-            Code is subject to the following restrictions: (i) Redistributable Binary Code
-            may only be distributed in binary format and may not be distributed in source
-            code format:; (ii)  the Redistributable Binary Code may only operate in
-            conjunction with platforms incorporating Qualcomm Technologies, Inc. chipsets;
-            (iii) redistribution of the Redistributable Binary Code must include the .txt
-            file setting forth the terms and condition of this Agreement; (iv) you may not
-            use Qualcomm Technologies' or its affiliates or subsidiaries name, logo or
-            trademarks; and (v) copyright, trademark, patent and any other notices that
-            appear on the Materials may not be removed or obscured.
-
-            1.3 Additional Restrictions.  Except as expressly permitted by this Agreement,
-            you shall have no right to sublicense, transfer or otherwise disclose the
-            Materials to any third party.  You shall not reverse engineer, reverse
-            assemble, reverse translate, decompile or reduce to source code form any
-            portion of the Materials provided in object code form or executable form.
-            Except for the purposes expressly permitted in this Agreement, You shall not
-            use the Materials for any other purpose.  QTI (or its licensors) shall retain
-            title and all ownership rights in and to the Materials and any alterations,
-            modifications (including all derivative works), translations or adaptations
-            made of the Materials, and all copies thereof, and nothing herein shall be
-            deemed to grant any right to You under any of QTI's or its affiliates'
-            patents.  You shall not subject the Materials to any third party license
-            terms (e.g., open source license terms).  You shall not use the Materials for
-            the purpose of identifying or providing evidence to support any potential
-            patent infringement claim against QTI, its affiliates, or any of QTI's or
-            QTI's affiliates' suppliers and/or direct or indirect customers.  QTI hereby
-            reserves all rights not expressly granted herein.
-
-            1.4 Third Party Software and Materials.  The Software may contain or link to
-            certain software and/or materials that are written or owned by third parties.
-            Such third party code and materials may be licensed under separate or
-            different terms and conditions and are not licensed to you under the terms of
-            this Agreement.  You agree to comply with all terms and conditions imposed on
-            you in the applicable third party licenses.  Such terms and conditions may
-            impose certain obligations on you as a condition to the permitted use of such
-            third party code and materials.  QTI does not represent or warrant that such
-            third party licensors have or will continue to license or make available their
-            code and materials to you.
-
-            1.5 Feedback.  QTI may from time to time receive suggestions, feedback or
-            other information from You regarding the Materials.  Any suggestions, feedback
-            or other disclosures received from You are and shall be entirely voluntary on
-            the part of You.  Notwithstanding any other term in this Agreement, QTI shall
-            be free to use suggestions, feedback or other information received from You,
-            without obligation of any kind to You.  The Parties agree that all inventions,
-            product improvements, and modifications conceived of or made by QTI that are
-            based, either in whole or in part, on ideas, feedback, suggestions, or
-            recommended improvements received from You are the exclusive property of QTI,
-            and all right, title and interest in and to any such inventions, product
-            improvements, and modifications will vest solely in QTI.
-
-            1.6 No Technical Support.  QTI is under no obligation to provide any form of
-            technical support for the Materials, and if QTI, in its sole discretion,
-            chooses to provide any form of support or information relating to the
-            Materials, such support and information shall be deemed confidential and
-            proprietary to QTI.
-
+          1.1 License.  Subject to the terms and conditions of this Agreement,
+          including, without limitation, the restrictions, conditions, limitations and
+          exclusions set forth in this Agreement, QTI hereby grants to you a
+          nonexclusive, limited license under QTI's copyrights to:  (i) install and use
+          the Materials; and (ii) to reproduce and redistribute the binary code portions
+          of the Materials (the "Redistributable Binary Code").  You may make and use a
+          reasonable number of copies of any documentation.
+          1.2 Redistribution Restrictions.  Distribution of the Redistributable Binary
+          Code is subject to the following restrictions: (i) Redistributable Binary Code
+          may only be distributed in binary format and may not be distributed in source
+          code format:; (ii)  the Redistributable Binary Code may only operate in
+          conjunction with platforms incorporating Qualcomm Technologies, Inc. chipsets;
+          (iii) redistribution of the Redistributable Binary Code must include the .txt
+          file setting forth the terms and condition of this Agreement; (iv) you may not
+          use Qualcomm Technologies' or its affiliates or subsidiaries name, logo or
+          trademarks; and (v) copyright, trademark, patent and any other notices that
+          appear on the Materials may not be removed or obscured.
+          1.3 Additional Restrictions.  Except as expressly permitted by this Agreement,
+          you shall have no right to sublicense, transfer or otherwise disclose the
+          Materials to any third party.  You shall not reverse engineer, reverse
+          assemble, reverse translate, decompile or reduce to source code form any
+          portion of the Materials provided in object code form or executable form.
+          Except for the purposes expressly permitted in this Agreement, You shall not
+          use the Materials for any other purpose.  QTI (or its licensors) shall retain
+          title and all ownership rights in and to the Materials and any alterations,
+          modifications (including all derivative works), translations or adaptations
+          made of the Materials, and all copies thereof, and nothing herein shall be
+          deemed to grant any right to You under any of QTI's or its affiliates'
+          patents.  You shall not subject the Materials to any third party license
+          terms (e.g., open source license terms).  You shall not use the Materials for
+          the purpose of identifying or providing evidence to support any potential
+          patent infringement claim against QTI, its affiliates, or any of QTI's or
+          QTI's affiliates' suppliers and/or direct or indirect customers.  QTI hereby
+          reserves all rights not expressly granted herein.
+          1.4 Third Party Software and Materials.  The Software may contain or link to
+          certain software and/or materials that are written or owned by third parties.
+          Such third party code and materials may be licensed under separate or
+          different terms and conditions and are not licensed to you under the terms of
+          this Agreement.  You agree to comply with all terms and conditions imposed on
+          you in the applicable third party licenses.  Such terms and conditions may
+          impose certain obligations on you as a condition to the permitted use of such
+          third party code and materials.  QTI does not represent or warrant that such
+          third party licensors have or will continue to license or make available their
+          code and materials to you.
+          1.5 Feedback.  QTI may from time to time receive suggestions, feedback or
+          other information from You regarding the Materials.  Any suggestions, feedback
+          or other disclosures received from You are and shall be entirely voluntary on
+          the part of You.  Notwithstanding any other term in this Agreement, QTI shall
+          be free to use suggestions, feedback or other information received from You,
+          without obligation of any kind to You.  The Parties agree that all inventions,
+          product improvements, and modifications conceived of or made by QTI that are
+          based, either in whole or in part, on ideas, feedback, suggestions, or
+          recommended improvements received from You are the exclusive property of QTI,
+          and all right, title and interest in and to any such inventions, product
+          improvements, and modifications will vest solely in QTI.
+          1.6 No Technical Support.  QTI is under no obligation to provide any form of
+          technical support for the Materials, and if QTI, in its sole discretion,
+          chooses to provide any form of support or information relating to the
+          Materials, such support and information shall be deemed confidential and
+          proprietary to QTI.
           2. WARRANTY DISCLAIMER.  YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT THE USE OF
           THE MATERIALS IS AT YOUR SOLE RISK.  THE MATERIALS AND TECHNICAL SUPPORT, IF
           ANY, ARE PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR
@@ -127,7 +119,6 @@ license_detections:
           RESPONSIBILITY OF YOU TO MAKE SUCH DETERMINATION AS IS NECESSARY WITH RESPECT TO
           THE ACQUISITION OF LICENSES UNDER PATENTS AND OTHER INTELLECTUAL PROPERTY OF
           THIRD PARTIES.
-
           3. NO OTHER LICENSES OR INTELLECTUAL PROPERTY RIGHTS. Neither this Agreement,
           nor any act by QTI or any of its affiliates pursuant to this Agreement or
           relating to the Materials (including, without limitation, the provision by QTI
@@ -136,18 +127,15 @@ license_detections:
           or any other intellectual property of QTI or any of its affiliates, except for
           the copyright rights expressly licensed under this Agreement. You understand and
           agree that:
-
-            (i) Neither this Agreement, nor delivery of the Materials, grants any right to
-            practice, or any other right at all with respect to, any patent of QTI or any
-            of its affiliates; and
-
-            (ii) A separate license agreement from QUALCOMM Incorporated is needed to use
-            or practice any patent of QUALCOMM Incorporated. You agree not to contend in
-            any context that, as a result of the provision or use of the Materials, either
-            QTI or any of its affiliates has any obligation to extend, or You or any other
-            party has obtained any right to, any license, whether express or implied, with
-            respect to any patent of QTI or any of its affiliates for any purpose.
-
+          (i) Neither this Agreement, nor delivery of the Materials, grants any right to
+          practice, or any other right at all with respect to, any patent of QTI or any
+          of its affiliates; and
+          (ii) A separate license agreement from QUALCOMM Incorporated is needed to use
+          or practice any patent of QUALCOMM Incorporated. You agree not to contend in
+          any context that, as a result of the provision or use of the Materials, either
+          QTI or any of its affiliates has any obligation to extend, or You or any other
+          party has obtained any right to, any license, whether express or implied, with
+          respect to any patent of QTI or any of its affiliates for any purpose.
           4. TERMINATION.  This Agreement shall be effective upon acceptance, or access or
           use of the Materials (whichever occurs first) by You and shall continue until
           terminated. You may terminate the Agreement at any time by deleting and
@@ -163,7 +151,6 @@ license_detections:
           rights granted to You in Section 1 (License) shall be null, void and ineffective
           from the Effective Date, and QTI shall also have the right to terminate this
           Agreement immediately, and with retroactive effect to the effective date.
-
           5. LIMITATION OF LIABILITY.  IN NO EVENT SHALL QTI, QTI's AFFILIATES OR ITS
           LICENSORS BE LIABLE TO YOU FOR ANY INCIDENTAL, CONSEQUENTIAL OR SPECIAL DAMAGES,
           INCLUDING BUT NOT LIMITED TO ANY LOST PROFITS, LOST SAVINGS, OR OTHER INCIDENTAL
@@ -176,7 +163,6 @@ license_detections:
           LICENSORS, AND THE SOLE AND EXCLUSIVE REMEDY OF YOU, FOR ANY CLAIM OR CAUSE OF
           ACTION ARISING HEREUNDER (WHETHER IN CONTRACT, TORT, OR OTHERWISE) SHALL NOT
           EXCEED US$50.
-
           6. INDEMNIFICATION.  You agree to indemnify and hold harmless QTI and its
           officers, directors, employees and successors and assigns against any and all
           third party claims, demands, causes of action, losses, liabilities, damages,
@@ -186,7 +172,6 @@ license_detections:
           omissions, products and services.  If requested by QTI, You agree to defend QTI
           in connection with any third party claims, demands, or causes of action
           resulting from, arising out of or in connection with any of the foregoing.
-
           7. ASSIGNMENT.  You shall not assign this Agreement or any right or interest
           under this Agreement, nor delegate any obligation to be performed under this
           Agreement, without QTI's prior written consent.  For purposes of this Section 7,
@@ -196,19 +181,16 @@ license_detections:
           Any attempted assignment in contravention of this Section 9 shall be void.
           QTI may freely assign this Agreement or delegate any or all of its rights and
           obligations hereunder to any third party.
-
           8. COMPLIANCE WITH LAWS; APPLICABLE LAW.  You agree to comply with all
           applicable local, international and national laws and regulations and with U.S.
           Export Administration Regulations, as they apply to the subject matter of this
           Agreement.  This Agreement is governed by the laws of the State of California,
           excluding California's choice of law rules.
-
           9. CONTRACTING PARTIES.  If the Materials are downloaded on any computer owned
           by a corporation or other legal entity, then this Agreement is formed by and
           between QTI and such entity.  The individual accepting the terms of this
           Agreement represents and warrants to QTI that they have the authority to bind
           such entity to the terms and conditions of this Agreement.
-
           10. MISCELLANEOUS PROVISIONS.  This Agreement, together with all exhibits
           attached hereto, which are incorporated herein by this reference, constitutes
           the entire agreement between QTI and You and supersedes all prior negotiations,
@@ -266,10 +248,10 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/openssl-ssleay_43.RULE
         matched_text: |
           The OpenSSL toolkit stays under a dual license, i.e. both the conditions of
-            the OpenSSL License and the original SSLeay license apply to the toolkit.
-            See below for the actual license texts. Actually both licenses are BSD-style
-            Open Source licenses. In case of any license issues related to OpenSSL
-            please contact openssl-core@openssl.org.
+          the OpenSSL License and the original SSLeay license apply to the toolkit.
+          See below for the actual license texts. Actually both licenses are BSD-style
+          Open Source licenses. In case of any license issues related to OpenSSL
+          please contact openssl-core@openssl.org.
       - score: '100.0'
         start_line: 246
         end_line: 246
@@ -295,53 +277,53 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/openssl_1.RULE
         matched_text: |
           Redistribution and use in source and binary forms, with or without
-           * modification, are permitted provided that the following conditions
-           * are met:
-           *
-           * 1. Redistributions of source code must retain the above copyright
-           *    notice, this list of conditions and the following disclaimer.
-           *
-           * 2. Redistributions in binary form must reproduce the above copyright
-           *    notice, this list of conditions and the following disclaimer in
-           *    the documentation and/or other materials provided with the
-           *    distribution.
-           *
-           * 3. All advertising materials mentioning features or use of this
-           *    software must display the following acknowledgment:
-           *    "This product includes software developed by the OpenSSL Project
-           *    for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
-           *
-           * 4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to
-           *    endorse or promote products derived from this software without
-           *    prior written permission. For written permission, please contact
-           *    openssl-core@openssl.org.
-           *
-           * 5. Products derived from this software may not be called "OpenSSL"
-           *    nor may "OpenSSL" appear in their names without prior written
-           *    permission of the OpenSSL Project.
-           *
-           * 6. Redistributions of any form whatsoever must retain the following
-           *    acknowledgment:
-           *    "This product includes software developed by the OpenSSL Project
-           *    for use in the OpenSSL Toolkit (http://www.openssl.org/)"
-           *
-           * THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY
-           * EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-           * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
-           * PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR
-           * ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-           * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
-           * NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-           * LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-           * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
-           * STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
-           * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
-           * OF THE POSSIBILITY OF SUCH DAMAGE.
-           * ====================================================================
-           *
-           * This product includes cryptographic software written by Eric Young
-           * (eay@cryptsoft.com).  This product includes software written by Tim
-           * Hudson (tjh@cryptsoft.com).
+          * modification, are permitted provided that the following conditions
+          * are met:
+          *
+          * 1. Redistributions of source code must retain the above copyright
+          *    notice, this list of conditions and the following disclaimer.
+          *
+          * 2. Redistributions in binary form must reproduce the above copyright
+          *    notice, this list of conditions and the following disclaimer in
+          *    the documentation and/or other materials provided with the
+          *    distribution.
+          *
+          * 3. All advertising materials mentioning features or use of this
+          *    software must display the following acknowledgment:
+          *    "This product includes software developed by the OpenSSL Project
+          *    for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
+          *
+          * 4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to
+          *    endorse or promote products derived from this software without
+          *    prior written permission. For written permission, please contact
+          *    openssl-core@openssl.org.
+          *
+          * 5. Products derived from this software may not be called "OpenSSL"
+          *    nor may "OpenSSL" appear in their names without prior written
+          *    permission of the OpenSSL Project.
+          *
+          * 6. Redistributions of any form whatsoever must retain the following
+          *    acknowledgment:
+          *    "This product includes software developed by the OpenSSL Project
+          *    for use in the OpenSSL Toolkit (http://www.openssl.org/)"
+          *
+          * THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY
+          * EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+          * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+          * PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR
+          * ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+          * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+          * NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+          * LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+          * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+          * STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+          * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+          * OF THE POSSIBILITY OF SUCH DAMAGE.
+          * ====================================================================
+          *
+          * This product includes cryptographic software written by Eric Young
+          * (eay@cryptsoft.com).  This product includes software written by Tim
+          * Hudson (tjh@cryptsoft.com).
   - license_expression: ssleay-windows
     detection_log:
       - not-combined
@@ -357,57 +339,57 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/licenses/ssleay-windows.LICENSE
         matched_text: |
           This package is an SSL implementation written
-           * by Eric Young (eay@cryptsoft.com).
-           * The implementation was written so as to conform with Netscapes SSL.
-           *
-           * This library is free for commercial and non-commercial use as long as
-           * the following conditions are aheared to.  The following conditions
-           * apply to all code found in this distribution, be it the RC4, RSA,
-           * lhash, DES, etc., code; not just the SSL code.  The SSL documentation
-           * included with this distribution is covered by the same copyright terms
-           * except that the holder is Tim Hudson (tjh@cryptsoft.com).
-           *
-           * Copyright remains Eric Young's, and as such any Copyright notices in
-           * the code are not to be removed.
-           * If this package is used in a product, Eric Young should be given attribution
-           * as the author of the parts of the library used.
-           * This can be in the form of a textual message at program startup or
-           * in documentation (online or textual) provided with the package.
-           *
-           * Redistribution and use in source and binary forms, with or without
-           * modification, are permitted provided that the following conditions
-           * are met:
-           * 1. Redistributions of source code must retain the copyright
-           *    notice, this list of conditions and the following disclaimer.
-           * 2. Redistributions in binary form must reproduce the above copyright
-           *    notice, this list of conditions and the following disclaimer in the
-           *    documentation and/or other materials provided with the distribution.
-           * 3. All advertising materials mentioning features or use of this software
-           *    must display the following acknowledgement:
-           *    "This product includes cryptographic software written by
-           *     Eric Young (eay@cryptsoft.com)"
-           *    The word 'cryptographic' can be left out if the rouines from the library
-           *    being used are not cryptographic related :-).
-           * 4. If you include any Windows specific code (or a derivative thereof) from
-           *    the apps directory (application code) you must include an acknowledgement:
-           *    "This product includes software written by Tim Hudson (tjh@cryptsoft.com)"
-           *
-           * THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS'' AND
-           * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-           * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-           * ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
-           * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-           * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
-           * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-           * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
-           * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
-           * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
-           * SUCH DAMAGE.
-           *
-           * The licence and distribution terms for any publically available version or
-           * derivative of this code cannot be changed.  i.e. this code cannot simply be
-           * copied and put under another distribution licence
-           * [including the GNU Public Licence.]
+          * by Eric Young (eay@cryptsoft.com).
+          * The implementation was written so as to conform with Netscapes SSL.
+          *
+          * This library is free for commercial and non-commercial use as long as
+          * the following conditions are aheared to.  The following conditions
+          * apply to all code found in this distribution, be it the RC4, RSA,
+          * lhash, DES, etc., code; not just the SSL code.  The SSL documentation
+          * included with this distribution is covered by the same copyright terms
+          * except that the holder is Tim Hudson (tjh@cryptsoft.com).
+          *
+          * Copyright remains Eric Young's, and as such any Copyright notices in
+          * the code are not to be removed.
+          * If this package is used in a product, Eric Young should be given attribution
+          * as the author of the parts of the library used.
+          * This can be in the form of a textual message at program startup or
+          * in documentation (online or textual) provided with the package.
+          *
+          * Redistribution and use in source and binary forms, with or without
+          * modification, are permitted provided that the following conditions
+          * are met:
+          * 1. Redistributions of source code must retain the copyright
+          *    notice, this list of conditions and the following disclaimer.
+          * 2. Redistributions in binary form must reproduce the above copyright
+          *    notice, this list of conditions and the following disclaimer in the
+          *    documentation and/or other materials provided with the distribution.
+          * 3. All advertising materials mentioning features or use of this software
+          *    must display the following acknowledgement:
+          *    "This product includes cryptographic software written by
+          *     Eric Young (eay@cryptsoft.com)"
+          *    The word 'cryptographic' can be left out if the rouines from the library
+          *    being used are not cryptographic related :-).
+          * 4. If you include any Windows specific code (or a derivative thereof) from
+          *    the apps directory (application code) you must include an acknowledgement:
+          *    "This product includes software written by Tim Hudson (tjh@cryptsoft.com)"
+          *
+          * THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS'' AND
+          * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+          * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+          * ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
+          * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+          * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+          * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+          * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+          * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+          * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+          * SUCH DAMAGE.
+          *
+          * The licence and distribution terms for any publically available version or
+          * derivative of this code cannot be changed.  i.e. this code cannot simply be
+          * copied and put under another distribution licence
+          * [including the GNU Public Licence.]
   - license_expression: zlib
     detection_log:
       - not-combined
@@ -437,22 +419,20 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/zlib_17.RULE
         matched_text: |
           This software is provided 'as-is', without any express or implied
-            warranty.  In no event will the authors be held liable for any damages
-            arising from the use of this software.
-
-            Permission is granted to anyone to use this software for any purpose,
-            including commercial applications, and to alter it and redistribute it
-            freely, subject to the following restrictions:
-
-            1. The origin of this software must not be misrepresented; you must not
-               claim that you wrote the original software. If you use this software
-               in a product, an acknowledgment in the product documentation would be
-               appreciated but is not required.
-            2. Altered source versions must be plainly marked as such, and must not be
-               misrepresented as being the original software.
-            3. This notice may not be removed or altered from any source distribution.
-            Jean-loup Gailly        Mark Adler
-            jloup@gzip.org          madler@alumni.caltech.edu
+          warranty.  In no event will the authors be held liable for any damages
+          arising from the use of this software.
+          Permission is granted to anyone to use this software for any purpose,
+          including commercial applications, and to alter it and redistribute it
+          freely, subject to the following restrictions:
+          1. The origin of this software must not be misrepresented; you must not
+          claim that you wrote the original software. If you use this software
+          in a product, an acknowledgment in the product documentation would be
+          appreciated but is not required.
+          2. Altered source versions must be plainly marked as such, and must not be
+          misrepresented as being the original software.
+          3. This notice may not be removed or altered from any source distribution.
+          Jean-loup Gailly        Mark Adler
+          jloup@gzip.org          madler@alumni.caltech.edu
   - license_expression: public-domain
     detection_log:
       - not-combined
@@ -468,8 +448,8 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/public-domain_303.RULE
         matched_text: |
           This code was
-           * written by Colin Plumb in 1993, no copyright is claimed.
-           * This code is in the public domain; do with it what you wish.
+          * written by Colin Plumb in 1993, no copyright is claimed.
+          * This code is in the public domain; do with it what you wish.
   - license_expression: bsd-new
     detection_log:
       - not-combined
@@ -485,28 +465,28 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/bsd-new_68.RULE
         matched_text: |
           Redistribution and use in source and binary forms, with or without
-           * modification, are permitted provided that the following conditions
-           * are met:
-           * 1. Redistributions of source code must retain the above copyright
-           *    notice, this list of conditions and the following disclaimer.
-           * 2. Redistributions in binary form must reproduce the above copyright
-           *    notice, this list of conditions and the following disclaimer in the
-           *    documentation and/or other materials provided with the distribution.
-           * 3. Neither the name of the copyright holder nor the names of contributors
-           *    may be used to endorse or promote products derived from this software
-           *    without specific prior written permission.
-           *
-           * THIS SOFTWARE IS PROVIDED BY THE AUTHOR(S) AND CONTRIBUTOR(S) ``AS IS'' AND
-           * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-           * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-           * ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR(S) OR CONTRIBUTOR(S) BE LIABLE
-           * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-           * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
-           * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-           * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
-           * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
-           * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
-           * SUCH DAMAGE.
+          * modification, are permitted provided that the following conditions
+          * are met:
+          * 1. Redistributions of source code must retain the above copyright
+          *    notice, this list of conditions and the following disclaimer.
+          * 2. Redistributions in binary form must reproduce the above copyright
+          *    notice, this list of conditions and the following disclaimer in the
+          *    documentation and/or other materials provided with the distribution.
+          * 3. Neither the name of the copyright holder nor the names of contributors
+          *    may be used to endorse or promote products derived from this software
+          *    without specific prior written permission.
+          *
+          * THIS SOFTWARE IS PROVIDED BY THE AUTHOR(S) AND CONTRIBUTOR(S) ``AS IS'' AND
+          * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+          * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+          * ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR(S) OR CONTRIBUTOR(S) BE LIABLE
+          * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+          * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+          * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+          * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+          * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+          * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+          * SUCH DAMAGE.
   - license_expression: gary-s-brown
     detection_log:
       - not-combined
@@ -522,7 +502,7 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/licenses/gary-s-brown.LICENSE
         matched_text: |
           You may use this program, or
-           *  code or tables extracted from it, as desired without restriction.
+          *  code or tables extracted from it, as desired without restriction.
   - license_expression: other-permissive
     detection_log:
       - not-combined
@@ -538,11 +518,11 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/other-permissive_105.RULE
         matched_text: |
           I retain copyright in this code but I encourage its free use provided
-             that I don't carry any responsibility for the results. I am especially
-             happy to see it used in free and open source software. If you do use
-             it I would appreciate an acknowledgement of its origin in the code or
-             the product that results and I would also appreciate knowing a liitle
-             about the use to which it is being put.
+          that I don't carry any responsibility for the results. I am especially
+          happy to see it used in free and open source software. If you do use
+          it I would appreciate an acknowledgement of its origin in the code or
+          the product that results and I would also appreciate knowing a liitle
+          about the use to which it is being put.
   - license_expression: public-domain-disclaimer
     detection_log:
       - not-combined
@@ -558,14 +538,14 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/public-domain-disclaimer_70.RULE
         matched_text: |
           Please do not copyright this code.  This code is in the public domain.
-           *
-           * LANDON CURT NOLL DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE,
-           * INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO
-           * EVENT SHALL LANDON CURT NOLL BE LIABLE FOR ANY SPECIAL, INDIRECT OR
-           * CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF
-           * USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
-           * OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-           * PERFORMANCE OF THIS SOFTWARE.
+          *
+          * LANDON CURT NOLL DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE,
+          * INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO
+          * EVENT SHALL LANDON CURT NOLL BE LIABLE FOR ANY SPECIAL, INDIRECT OR
+          * CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF
+          * USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+          * OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+          * PERFORMANCE OF THIS SOFTWARE.
   - license_expression: public-domain-disclaimer
     detection_log:
       - not-combined
@@ -581,21 +561,21 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/public-domain-disclaimer_67.RULE
         matched_text: |
           NO COPYRIGHT - THIS IS 100% IN THE PUBLIC DOMAIN
-           *
-           * The original unmodified version is available at:
-           *    ftp://ftp.funet.fi/pub/crypt/hash/sha/sha1.c
-           *
-           * THIS SOFTWARE IS PROVIDED BY THE AUTHOR(S) AND CONTRIBUTORS ``AS IS'' AND
-           * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-           * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-           * ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR(S) OR CONTRIBUTORS BE LIABLE
-           * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-           * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
-           * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-           * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
-           * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
-           * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
-           * SUCH DAMAGE.
+          *
+          * The original unmodified version is available at:
+          *    ftp://ftp.funet.fi/pub/crypt/hash/sha/sha1.c
+          *
+          * THIS SOFTWARE IS PROVIDED BY THE AUTHOR(S) AND CONTRIBUTORS ``AS IS'' AND
+          * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+          * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+          * ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR(S) OR CONTRIBUTORS BE LIABLE
+          * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+          * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+          * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+          * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+          * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+          * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+          * SUCH DAMAGE.
   - license_expression: gpl-2.0 OR bsd-new
     detection_log:
       - not-combined
@@ -611,13 +591,13 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/gpl-2.0_or_bsd-new_aes_1.RULE
         matched_text: |
           This program is free software; you can redistribute it and/or modify
-           * it under the terms of the GNU General Public License version 2 as
-           * published by the Free Software Foundation.
-           *
-           * Alternatively, this software may be distributed under the terms of BSD
-           * license.
-           *
-           * See README and COPYING for more details.
+          * it under the terms of the GNU General Public License version 2 as
+          * published by the Free Software Foundation.
+          *
+          * Alternatively, this software may be distributed under the terms of BSD
+          * license.
+          *
+          * See README and COPYING for more details.
   - license_expression: gpl-2.0 OR bsd-new
     detection_log:
       - not-combined
@@ -633,13 +613,13 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/gpl-2.0_or_bsd-new_aes_1.RULE
         matched_text: |
           This program is free software; you can redistribute it and/or modify
-           * it under the terms of the GNU General Public License version 2 as
-           * published by the Free Software Foundation.
-           *
-           * Alternatively, this software may be distributed under the terms of BSD
-           * license.
-           *
-           * See README and COPYING for more details.
+          * it under the terms of the GNU General Public License version 2 as
+          * published by the Free Software Foundation.
+          *
+          * Alternatively, this software may be distributed under the terms of BSD
+          * license.
+          *
+          * See README and COPYING for more details.
   - license_expression: bsd-new
     detection_log:
       - not-combined
@@ -655,28 +635,28 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/bsd-new_1040.RULE
         matched_text: |
           Redistribution and use in source and binary forms, with or without
-           * modification, are permitted provided that the following conditions
-           * are met:
-           * 1. Redistributions of source code must retain the above copyright
-           *    notice, this list of conditions and the following disclaimer.
-           * 2. Redistributions in binary form must reproduce the above copyright
-           *    notice, this list of conditions and the following disclaimer in the
-           *    documentation and/or other materials provided with the distribution.
-           * 3. Neither the name of the copyright holder nor the names of contributors
-           *    may be used to endorse or promote products derived from this software
-           *    without specific prior written permission.
-           *
-           * THIS SOFTWARE IS PROVIDED BY THE AUTHOR(S) AND CONTRIBUTORS ``AS IS'' AND
-           * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-           * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-           * ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR(S) OR CONTRIBUTORS BE LIABLE
-           * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-           * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
-           * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-           * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
-           * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
-           * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
-           * SUCH DAMAGE.
+          * modification, are permitted provided that the following conditions
+          * are met:
+          * 1. Redistributions of source code must retain the above copyright
+          *    notice, this list of conditions and the following disclaimer.
+          * 2. Redistributions in binary form must reproduce the above copyright
+          *    notice, this list of conditions and the following disclaimer in the
+          *    documentation and/or other materials provided with the distribution.
+          * 3. Neither the name of the copyright holder nor the names of contributors
+          *    may be used to endorse or promote products derived from this software
+          *    without specific prior written permission.
+          *
+          * THIS SOFTWARE IS PROVIDED BY THE AUTHOR(S) AND CONTRIBUTORS ``AS IS'' AND
+          * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+          * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+          * ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR(S) OR CONTRIBUTORS BE LIABLE
+          * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+          * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+          * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+          * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+          * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+          * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+          * SUCH DAMAGE.
   - license_expression: bsd-new
     detection_log:
       - not-combined
@@ -741,26 +721,26 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/bsd-new_76.RULE
         matched_text: |
           Redistribution and use in source and binary forms, with or without
-           * modification, are permitted provided that the following conditions
-           * are met:
-           * 1. Redistributions of source code must retain the above copyright
-           * notice, this list of conditions and the following disclaimer.
-           * 2. Redistributions in binary form must reproduce the above copyright
-           * notice, this list of conditions and the following disclaimer in the
-           * documentation and/or other materials provided with the distribution.
-           * 3. The name of the author may not be used to endorse or promote products
-           * derived from this software without specific prior written permission.
-           *
-           * THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES,
-           * INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
-           * AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL
-           * THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
-           * EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
-           * PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
-           * OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
-           * WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
-           * OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
-           * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+          * modification, are permitted provided that the following conditions
+          * are met:
+          * 1. Redistributions of source code must retain the above copyright
+          * notice, this list of conditions and the following disclaimer.
+          * 2. Redistributions in binary form must reproduce the above copyright
+          * notice, this list of conditions and the following disclaimer in the
+          * documentation and/or other materials provided with the distribution.
+          * 3. The name of the author may not be used to endorse or promote products
+          * derived from this software without specific prior written permission.
+          *
+          * THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES,
+          * INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+          * AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL
+          * THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+          * EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+          * PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
+          * OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+          * WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+          * OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+          * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   - license_expression: isc
     detection_log:
       - not-combined
@@ -776,16 +756,16 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/isc_14.RULE
         matched_text: |
           Permission to use, copy, modify, and distribute this software for any
-           * purpose with or without fee is hereby granted, provided that the above
-           * copyright notice and this permission notice appear in all copies.
-           *
-           * THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-           * WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
-           * MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
-           * ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
-           * WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
-           * ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
-           * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+          * purpose with or without fee is hereby granted, provided that the above
+          * copyright notice and this permission notice appear in all copies.
+          *
+          * THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+          * WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+          * MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+          * ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+          * WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+          * ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+          * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 other_license_detections: []
 copyright: |
   Copyright (c) 2013-2017 Qualcomm Technologies, Inc.

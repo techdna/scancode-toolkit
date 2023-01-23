@@ -221,16 +221,13 @@ other_license_detections:
           it under the terms of the GNU Library General Public License as published by
           the Free Software Foundation; either version 2 of the License, or
           (at your option) any later version.
-
           This program is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
           GNU Library General Public License for more details.
-
           You should have received a copy of the GNU Library General Public License
           along with this program; if not, write to the Free Software
           Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301, USA.
-
           On Debian GNU/Linux systems, the complete text of the GNU Library
           General Public License, version 2, can be found in
           /usr/share/common-licenses/LGPL-2.
@@ -262,15 +259,12 @@ other_license_detections:
           modify it under the terms of the GNU General Public License as
           published by the Free Software Foundation, either version 3 of the
           License, or (at your option) any later version.
-
           This texinfo.tex file is distributed in the hope that it will be
           useful, but WITHOUT ANY WARRANTY; without even the implied warranty
           of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
           General Public License for more details.
-
           You should have received a copy of the GNU General Public License
           along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
           As a special exception, when this file is read by TeX when processing
           a Texinfo source document, you may use the result without
           restriction.  (This has been our intent since Texinfo was invented.)
@@ -335,17 +329,14 @@ other_license_detections:
           This program is free software; you can redistribute it and/or modify
           it under the terms of the GNU General Public License as published by
           the Free Software Foundation; version 2 dated June. 1991.
-
           This program is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
           GNU General Public License for more details.
-
           You should have received a copy of the GNU General Public License
           along with this program; if not, write to the Free Software
           Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
           02110-1301 USA.
-
           On Debian GNU/Linux systems, the complete text of the GNU General
           Public License, version 2, can be found in
           /usr/share/common-licenses/GPL-2.
@@ -394,15 +385,12 @@ other_license_detections:
           it under the terms of the GNU Lesser General Public License as published by
           the Free Software Foundation; either version 3 of the License, or (at your
           option) any later version.
-
           GNU Nettle is distributed in the hope that it will be useful, but
           WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
           or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public
           License for more details.
-
           You should have received a copy of the GNU Lesser General Public
           License along with this library; if not, see http://www.gnu.org/licenses/.
-
           On Debian GNU/Linux systems, the complete text of the newest version
           of the GNU Lesser General Public License can be found in
           /usr/share/common-licenses/LGPL.
@@ -434,17 +422,14 @@ other_license_detections:
           it under the terms of the GNU General Public License as published by
           the Free Software Foundation; either version 2 of the License, or
           (at your option) any later version.
-
           GNU Nettle is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
           GNU General Public License for more details.
-
           You should have received a copy of the GNU General Public License
           along with this program; if not, write to the Free Software
           Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
           02110-1301 USA.
-
           On Debian GNU/Linux systems, the complete text of the newest version
           of the GNU General Public License can be found in
           /usr/share/common-licenses/GPL.
@@ -469,10 +454,8 @@ other_license_detections:
           distribute, sublicense, and/or sell copies of the Software, and to
           permit persons to whom the Software is furnished to do so, subject to
           the following conditions:
-
           The above copyright notice and this permission notice shall be included
           in all copies or substantial portions of the Software.
-
           THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
           OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
           MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
@@ -543,7 +526,7 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/pycrypto_1.RULE
         matched_text: |
           Python Cryptography
-              Toolkit license (essentially public domain).
+          Toolkit license (essentially public domain).
       - score: '100.0'
         start_line: 69
         end_line: 69
@@ -575,7 +558,7 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/lgpl-2.1-plus_389.RULE
         matched_text: |
           based on the code
-              in libgcrypt, copyright owned by the Free Software Foundation.
+          in libgcrypt, copyright owned by the Free Software Foundation.
       - score: '100.0'
         start_line: 87
         end_line: 87
@@ -597,7 +580,7 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/lgpl-2.1-plus_389.RULE
         matched_text: |
           based on the code in
-              libgcrypt, copyright owned by the Free Software Foundation.
+          libgcrypt, copyright owned by the Free Software Foundation.
       - score: '100.0'
         start_line: 105
         end_line: 105

@@ -54,12 +54,10 @@ other_license_detections:
           it under the terms of the GNU General Public License as published by
           the Free Software Foundation; either version 2 of the License, or
           (at your option) any later version.
-
           As a special exception to the GNU General Public License,
           if you distribute this file as part of a program or library that
           is built using GNU Libtool, you may include this file under the
           same distribution terms that you use for the rest of that program.
-
           On Debian systems, the full text of the GNU General Public
           License version 2 can be found in the file
           `/usr/share/common-licenses/GPL-2'.
@@ -91,7 +89,6 @@ other_license_detections:
           the terms of the GNU General Public License as published by the Free Software
           Foundation; either version 2 of the License, or (at your option) any later
           version.
-
           On Debian systems, the complete text of the GNU General Public License version 2
           can be found in /usr/share/common-licenses/GPL-2.
   - license_expression: gpl-3.0-plus
@@ -122,7 +119,6 @@ other_license_detections:
           it under the terms of the GNU General Public License as published by
           the Free Software Foundation, either version 3 of the License, or
           (at your option) any later version.
-
           On Debian systems, the full text of the GNU General Public License version 3
           can be found in the file `/usr/share/common-licenses/GPL-3'.
   - license_expression: bsd-simplified
@@ -142,15 +138,12 @@ other_license_detections:
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions are
           met:
-
-             * Redistributions of source code must retain the above copyright
-               notice, this list of conditions and the following disclaimer.
-
-             * Redistributions in binary form must reproduce the above
-               copyright notice, this list of conditions and the following
-               disclaimer in the documentation and/or other materials provided
-               with the distribution.
-
+          * Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+          * Redistributions in binary form must reproduce the above
+          copyright notice, this list of conditions and the following
+          disclaimer in the documentation and/or other materials provided
+          with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
           "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
           LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR

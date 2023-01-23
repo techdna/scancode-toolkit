@@ -217,12 +217,10 @@ other_license_detections:
           applies to all loadable Asterisk modules used on your system as well,
           except as defined below. The GPL (version 2) is included in this
           source tree in the file COPYING.
-
           This package also includes various components that are not part of
           Asterisk itself; these components are in the 'contrib' directory
           and its subdirectories. These components are also distributed under the
           GPL version 2 as well.
-
           Digium, Inc. (formerly Linux Support Services) holds copyright
           and/or sufficient licenses to all components of the Asterisk
           package, and therefore can grant, at its sole discretion, the ability
@@ -231,15 +229,12 @@ other_license_detections:
           runtime with the portions of Asterisk which fall under our
           copyright/license umbrella, or are distributed under more flexible
           licenses than GPL.
-
           If you wish to use our code in other GPL programs, don't worry --
           there is no requirement that you provide the same exception in your
           GPL'd products (although if you've written a module for Asterisk we
           would strongly encourage you to make the same exception that we do).
-
           Specific permission is also granted to link Asterisk with OpenSSL, OpenH323
           and/or the UW IMAP Toolkit and distribute the resulting binary files.
-
           In addition, Asterisk implements two management/control protocols: the
           Asterisk Manager Interface (AMI) and the Asterisk Gateway Interface
           (AGI). It is our belief that applications using these protocols to
@@ -250,7 +245,6 @@ other_license_detections:
           fall under the terms of the GPL, then we hereby grant you a license to
           use these protocols in combination with Asterisk in external
           applications licensed under any license you wish.
-
           The 'Asterisk' name and logos are trademarks owned by Digium, Inc.,
           and use of them is subject to our trademark licensing policies. If you
           wish to use these trademarks for purposes other than simple
@@ -278,7 +272,6 @@ other_license_detections:
           distribute, sublicense, and/or sell copies of the Software, and to
           permit persons to whom the Software is furnished to do so, subject to
           the following conditions:
-
           The above copyright notice and this permission notice shall be included
           in all copies or substantial portions of the Software.
   - license_expression: mit-0
@@ -302,7 +295,6 @@ other_license_detections:
           distribute, sublicense, and/or sell copies of the Software, and to
           permit persons to whom the Software is furnished to do so, subject to
           the following conditions:
-
           THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
           OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
           MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
@@ -351,14 +343,13 @@ other_license_detections:
           modification, are permitted provided that the following conditions are
           met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           3. The name of the author may not be used to endorse or promote
-             products derived from this software without specific prior written
-             permission.
-
+          products derived from this software without specific prior written
+          permission.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
           IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
           WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
@@ -387,15 +378,14 @@ other_license_detections:
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions are
           met:
-           - Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
-           - Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-           - Neither the name of the Xiph.org Foundation nor the names of its
-             contributors may be used to endorse or promote products derived from
-             this software without specific prior written permission.
-
+          - Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+          - Redistributions in binary form must reproduce the above copyright
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
+          - Neither the name of the Xiph.org Foundation nor the names of its
+          contributors may be used to endorse or promote products derived from
+          this software without specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
           ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
           LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
@@ -424,17 +414,15 @@ other_license_detections:
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions are
           met:
-
-           - Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
-           - Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-           - Neither the name of Internet Society, IETF or IETF Trust, nor the
-             names of specific contributors, may be used to endorse or promote
-             products derived from this software without specific prior written
-             permission.
-
+          - Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+          - Redistributions in binary form must reproduce the above copyright
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
+          - Neither the name of Internet Society, IETF or IETF Trust, nor the
+          names of specific contributors, may be used to endorse or promote
+          products derived from this software without specific prior written
+          permission.
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS
           IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
           TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
@@ -463,20 +451,18 @@ other_license_detections:
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions are
           met:
-
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           3. All advertising materials mentioning features or use of this
-             software must display the following acknowledgement: This product
-             includes software developed by the University of California,
-             Berkeley and its contributors.
+          software must display the following acknowledgement: This product
+          includes software developed by the University of California,
+          Berkeley and its contributors.
           4. Neither the name of the University nor the names of itscontributors
-             may be used to endorse or promote products derived from this
-             software without specific prior written permission.
-
+          may be used to endorse or promote products derived from this
+          software without specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
@@ -505,20 +491,18 @@ other_license_detections:
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions are
           met:
-
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           3. All advertising materials mentioning features or use of this
-             software must display the following acknowledgement: This product
-             includes software developed by the NetBSD Foundation, Inc. and its
-             contributors.
+          software must display the following acknowledgement: This product
+          includes software developed by the NetBSD Foundation, Inc. and its
+          contributors.
           4. Neither the name of The NetBSD Foundation nor the names of its
-             contributors may be used to endorse or promote products derived from
-             this software without specific prior written permission.
-
+          contributors may be used to endorse or promote products derived from
+          this software without specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY THE NETBSD FOUNDATION, INC. AND
           CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
           BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
@@ -547,22 +531,17 @@ other_license_detections:
         matched_text: |
           Redistribution and use in source and binary forms are permitted
           provided that:
-
           (1) source distributions retain this entire copyright notice and
-              comment;
-
+          comment;
           (2) modifications made to the software are prominently mentioned, and a
-              copy of the original software (or a pointer to its location) are
-              included; and
-
+          copy of the original software (or a pointer to its location) are
+          included; and
           (3) distributions including binaries display the following
-              acknowledgement: "This product includes software developed by Brian
-              M. Clapper <bmc@clapper.org>" in the documentation or other
-              materials provided with the distribution.
-
+          acknowledgement: "This product includes software developed by Brian
+          M. Clapper <bmc@clapper.org>" in the documentation or other
+          materials provided with the distribution.
           The name of the author may not be used to endorse or promote products
           derived from this software without specific prior written permission.
-
           THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED
           WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
           MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
@@ -586,7 +565,6 @@ other_license_detections:
           suitability of this software for any purpose nor are held responsible
           for any defects of this software.  THERE IS ABSOLUTELY NO WARRANTY FOR
           THIS SOFTWARE.
-
           As a matter of courtesy, the authors request to be informed about uses
           this software has found, about bugs in this software, and about any
           improvements that may be of general interest.
@@ -622,7 +600,6 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/licenses/wol.LICENSE
         matched_text: |
           The Wide Open License (WOL)
-
           Permission to use, copy, modify, distribute and sell this software and
           its documentation for any purpose is hereby granted without fee,
           provided that the above copyright notice and this license appear in all
@@ -673,8 +650,8 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/gpl-2.0_1333.RULE
         matched_text: |
           This program is free software, distributed under the terms of the GNU
-           General Public License Version 2. See the LICENSE file at the top of
-           the source tree.
+          General Public License Version 2. See the LICENSE file at the top of
+          the source tree.
   - license_expression: gpl-2.0-plus
     detection_log:
       - not-combined
@@ -690,9 +667,9 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/gpl-2.0-plus_165.RULE
         matched_text: |
           This program is free software; you can redistribute it and/or modify it
-           under the terms of the GNU General Public License as published by the
-           Free Software Foundation; either version 2, or (at your option) any
-           later version.
+          under the terms of the GNU General Public License as published by the
+          Free Software Foundation; either version 2, or (at your option) any
+          later version.
   - license_expression: gpl-2.0
     detection_log:
       - not-combined
@@ -722,7 +699,7 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/gpl-1.0-plus_469.RULE
         matched_text: |
           distributed under the terms of the GNU
-           General Public License
+          General Public License
   - license_expression: gpl-2.0
     detection_log:
       - not-combined
@@ -780,9 +757,9 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/free-unknown_109.RULE
         matched_text: |
           This software is furnished under an open source license and may be used
-           and copied only in accordance with the terms of this license. The text
-           of the license may generally be found in the root directory of this
-           installation in the COPYING file.
+          and copied only in accordance with the terms of this license. The text
+          of the license may generally be found in the root directory of this
+          installation in the COPYING file.
   - license_expression: unknown
     detection_log:
       - unknown-match
@@ -816,19 +793,16 @@ other_license_detections:
           might be interpreted as a copyright holder not granting a license.
           More likely, however, the header file is considered non-copyrightable
           header with merely a remark about origin of inspiration:
-
-           * File was introduced in Asterisk 0.1.1 (according to git sources),
-             together with file format_wav_gsm.c containing same comment but
-             also explicit copyright and licensing:
-             <https://github.com/asterisk/asterisk/commit/0ed94773>.
-
-           * Asterisk 0.1.1 was released in 1999 (according to git sources),
-             at about which time Guido Giorgetti <guido@sienanet.it> released
-             audio-related Delphi 3 code as "Freeware":
-             <http://delphi.icm.edu.pl/authors/a0002451.htm>
-             <http://delphi.icm.edu.pl/ftp/d30free/tmsgvoc.zip>
-             <http://torry.net/vcl/comms/voice/tmsgvoc.zip>.
-
+          * File was introduced in Asterisk 0.1.1 (according to git sources),
+          together with file format_wav_gsm.c containing same comment but
+          also explicit copyright and licensing:
+          <https://github.com/asterisk/asterisk/commit/0ed94773>.
+          * Asterisk 0.1.1 was released in 1999 (according to git sources),
+          at about which time Guido Giorgetti <guido@sienanet.it> released
+          audio-related Delphi 3 code as "Freeware":
+          <http://delphi.icm.edu.pl/authors/a0002451.htm>
+          <http://delphi.icm.edu.pl/ftp/d30free/tmsgvoc.zip>
+          <http://torry.net/vcl/comms/voice/tmsgvoc.zip>.
           See also <https://issues.asterisk.org/jira/browse/ASTERISK-24172>.
   - license_expression: gpl-2.0-plus
     detection_log:
@@ -845,13 +819,13 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/gpl-2.0-plus_848.RULE
         matched_text: |
           Have you intended for that package to be released under a Free
-           > Software license (basically: one that allows distribution and
-           > modification)? If so, could you please provide a version of that
-           > source package licensed under some standard free software license
-           > (GPL? LGPL? MIT?)
-           .
-           Thank you for your trouble. I intended the software to be free. GPL is
-           fine. Please add the appropriate text to the file for me, in my name.
+          > Software license (basically: one that allows distribution and
+          > modification)? If so, could you please provide a version of that
+          > source package licensed under some standard free software license
+          > (GPL? LGPL? MIT?)
+          .
+          Thank you for your trouble. I intended the software to be free. GPL is
+          fine. Please add the appropriate text to the file for me, in my name.
   - license_expression: gpl-2.0-plus
     detection_log:
       - not-combined
@@ -867,9 +841,9 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/gpl-2.0-plus_64.RULE
         matched_text: |
           This program is free software; you can redistribute it and/or modify it
-           under the terms of the GNU General Public License as published by the
-           Free Software Foundation; either version 2 of the License, or (at your
-           option) any later version.
+          under the terms of the GNU General Public License as published by the
+          Free Software Foundation; either version 2 of the License, or (at your
+          option) any later version.
   - license_expression: gpl-2.0
     detection_log:
       - not-combined
@@ -885,8 +859,8 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/gpl-2.0_1333.RULE
         matched_text: |
           This program is free software, distributed under the terms of the GNU
-           General Public License Version 2. See the LICENSE file at the top of
-           the source tree.
+          General Public License Version 2. See the LICENSE file at the top of
+          the source tree.
   - license_expression: gpl-3.0-plus
     detection_log:
       - not-combined
@@ -902,9 +876,9 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/gpl-3.0-plus_7.RULE
         matched_text: |
           This program is free software: you can redistribute it and/or modify it
-           under the terms of the GNU General Public License as published by the
-           Free Software Foundation, either version 3 of the License, or (at your
-           option) any later version.
+          under the terms of the GNU General Public License as published by the
+          Free Software Foundation, either version 3 of the License, or (at your
+          option) any later version.
   - license_expression: gpl-2.0
     detection_log:
       - not-combined
@@ -948,8 +922,8 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/gpl-2.0_1333.RULE
         matched_text: |
           This program is free software, distributed under the terms of the GNU
-           General Public License Version 2. See the LICENSE file at the top of
-           the source tree.
+          General Public License Version 2. See the LICENSE file at the top of
+          the source tree.
   - license_expression: lgpl-2.1
     detection_log:
       - not-combined
@@ -979,10 +953,10 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/gpl-2.0_or_lgpl-2.0-plus_1.RULE
         matched_text: |
           This program is free software, distributed under the terms of the GNU
-           General Public License Version 2. See the LICENSE file at the top of
-           the source tree.
-           .
-           This version may be optionally licenced under the GNU LGPL licence.
+          General Public License Version 2. See the LICENSE file at the top of
+          the source tree.
+          .
+          This version may be optionally licenced under the GNU LGPL licence.
   - license_expression: gpl-2.0
     detection_log:
       - not-combined
@@ -1012,7 +986,7 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/lgpl-2.0-plus_86.RULE
         matched_text: |
           This program is free software, distributed under the terms of
-           the GNU Lesser (Library) General Public License
+          the GNU Lesser (Library) General Public License
   - license_expression: mit
     detection_log:
       - not-combined
@@ -1028,7 +1002,7 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/mit_1064.RULE
         matched_text: |
           Prototype is freely distributable under the terms of an MIT-style
-           license.
+          license.
   - license_expression: gpl-2.0
     detection_log:
       - not-combined

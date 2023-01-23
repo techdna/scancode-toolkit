@@ -114,16 +114,13 @@ other_license_detections:
           This program is free software; you can redistribute it and/or modify
           it under the terms of the GNU General Public License, v2, as
           published by the Free Software Foundation
-
           This program is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
           GNU General Public License for more details.
-
           You should have received a copy of the GNU General Public License along
           with this program; if not, write to the Free Software Foundation, Inc.,
           51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
-
           On Debian systems, the complete text of the GNU General Public
           License version 2 can be found in `/usr/share/common-licenses/GPL-2'.
   - license_expression: gpl-2.0-plus
@@ -154,16 +151,13 @@ other_license_detections:
           it under the terms of the GNU General Public License as published by
           the Free Software Foundation; either version 2 of the License, or
           (at your option) any later version.
-
           This program is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
           GNU General Public License for more details.
-
           You should have received a copy of the GNU General Public License along
           with this program; if not, write to the Free Software Foundation, Inc.,
           51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
-
           On Debian systems, the complete text of the GNU General Public
           License version 2 can be found in `/usr/share/common-licenses/GPL-2'.
   - license_expression: gpl-3.0-plus
@@ -194,15 +188,12 @@ other_license_detections:
           it under the terms of the GNU General Public License as published by
           the Free Software Foundation; either version 3 of the License, or
           (at your option) any later version.
-
           This program is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
           GNU General Public License for more details.
-
           You should have received a copy of the GNU General Public License
           along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
           On Debian systems, the complete text of the GNU General Public
           License version 3 can be found in `/usr/share/common-licenses/GPL-3'.
   - license_expression: bsd-simplified
@@ -223,10 +214,10 @@ other_license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
   - license_expression: bsd-new
     detection_log:
       - not-combined
@@ -243,18 +234,14 @@ other_license_detections:
         matched_text: |
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions are met:
-
           1) Redistributions of source code must retain the above copyright notice,
           this list of conditions and the following disclaimer.
-
           2) Redistributions in binary form must reproduce the above copyright notice,
           this list of conditions and the following disclaimer in the documentation
           and/or other materials provided with the distribution.
-
           3) Neither the name of the ORGANIZATION nor the names of its contributors
           may be used to endorse or promote products derived from this software
           without specific prior written permission.
-
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
           AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -284,18 +271,17 @@ other_license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           3. All advertising materials mentioning features or use of this software
-             must display the following acknowledgement:
-             This product includes software developed by the University of
-             California, Berkeley and its contributors.
+          must display the following acknowledgement:
+          This product includes software developed by the University of
+          California, Berkeley and its contributors.
           4. Neither the name of the University nor the names of its contributors
-             may be used to endorse or promote products derived from this software
-             without specific prior written permission.
-
+          may be used to endorse or promote products derived from this software
+          without specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -333,7 +319,6 @@ other_license_detections:
         matched_text: |
           This file may be redistributed under the terms of the
           GNU Lesser General Public License.
-
           On Debian systems, the complete text of the GNU Lesser General Public
           License can be found in ‘/usr/share/common-licenses/LGPL’.
   - license_expression: lgpl-2.0-plus
@@ -364,15 +349,12 @@ other_license_detections:
           it under the terms of the GNU Lesser General Public License as published by
           the Free Software Foundation, either version 2 of the License, or
           (at your option) any later version.
-
           This program is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
           GNU Lesser General Public License for more details.
-
           You should have received a copy of the GNU Lesser General Public License
           along with this program. If not, see <http://www.gnu.org/licenses/>.
-
           The complete text of the GNU Lesser General Public License
           can be found in /usr/share/common-licenses/LGPL-2 file.
   - license_expression: lgpl-2.1-plus
@@ -403,16 +385,13 @@ other_license_detections:
           it under the terms of the GNU Lesser General Public License as published by
           the Free Software Foundation; either version 2.1, or (at your option)
           any later version.
-
           This program is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
           GNU Lesser General Public License for more details.
-
           You should have received a copy of the GNU Lesser General Public License along
           with this program; if not, write to the Free Software Foundation,
           Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
-
           On Debian systems, the complete text of the GNU Lesser General Public
           License version 2.1 can be found in ‘/usr/share/common-licenses/LGPL-2.1’.
   - license_expression: lgpl-3.0-plus
@@ -443,15 +422,12 @@ other_license_detections:
           modify it under the terms of the GNU Lesser General Public
           License as published by the Free Software Foundation; either
           version 3 of the License, or (at your option) any later version.
-
           This package is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
           Lesser General Public License for more details.
-
           You should have received a copy of the GNU General Public License
           along with this program. If not, see <http://www.gnu.org/licenses/>.
-
           On Debian systems, the complete text of the GNU Lesser General
           Public License can be found in "/usr/share/common-licenses/LGPL-3".
   - license_expression: mit
@@ -475,10 +451,8 @@ other_license_detections:
           publish, distribute, sublicense, and/or sell copies of the Software,
           and to permit persons to whom the Software is furnished to do so,
           subject to the following conditions:
-
           The above copyright notice and this permission notice shall be
           included in all copies or substantial portions of the Software.
-
           THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
           EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
           MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND

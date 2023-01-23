@@ -37,10 +37,10 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/lgpl-2.1_372.RULE
         matched_text: |
           library libaudit.* is released under LGPL
-           so that it may be linked with 3rd party software.
-           .
-           On Debian systems, refer to /usr/share/common-licenses/LGPL-2.1
-           for the complete text of the GNU Lesser General Public License.
+          so that it may be linked with 3rd party software.
+          .
+          On Debian systems, refer to /usr/share/common-licenses/LGPL-2.1
+          for the complete text of the GNU Lesser General Public License.
   - license_expression: gpl-2.0
     detection_log:
       - not-combined
@@ -68,16 +68,13 @@ other_license_detections:
           This package is free software; you can redistribute it and/or modify
           it under the terms of the GNU General Public License version 2,
           as published by the Free Software Foundation.
-
           This package is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
           GNU General Public License for more details.
-
           You should have received a copy of the GNU General Public License
           along with this package; if not, write to the Free Software
           Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
-
           On Debian systems, the complete text of the GNU General
           Public License can be found in `/usr/share/common-licenses/GPL-1'.
 copyright: |

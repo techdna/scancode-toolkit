@@ -17,16 +17,19 @@ license_detections:
         license_expression: gpl-2.0
         rule_identifier: gpl-2.0_1033.RULE
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/gpl-2.0_1033.RULE
-        matched_text: "This program is free software; you can redistribute it and/or modify\n\
-          \tit under the terms of the GNU General Public License as published by\n\tthe Free\
-          \ Software Foundation; version 2 of the License.\n\n\tThis program is distributed\
-          \ in the hope that it will be useful,\n\tbut WITHOUT ANY WARRANTY; without even the\
-          \ implied warranty of\n\tMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See\
-          \ the\n\tGNU General Public License for more details.\n\n\tYou should have received\
-          \ a copy of the GNU General Public License\n\talong with this program; if not, write\
-          \ to the Free Software\n\tFoundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA\
-          \ 02110-1301 USA\n\nOn Debian systems, the complete text of the GNU General Public\
-          \ License\ncan be found in /usr/share/common-licenses/GPL-2 file."
+        matched_text: |
+          This program is free software; you can redistribute it and/or modify
+          it under the terms of the GNU General Public License as published by
+          the Free Software Foundation; version 2 of the License.
+          This program is distributed in the hope that it will be useful,
+          but WITHOUT ANY WARRANTY; without even the implied warranty of
+          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+          GNU General Public License for more details.
+          You should have received a copy of the GNU General Public License
+          along with this program; if not, write to the Free Software
+          Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
+          On Debian systems, the complete text of the GNU General Public License
+          can be found in /usr/share/common-licenses/GPL-2 file.
 other_license_detections: []
 copyright: |
   Copyright (c) 2009 Michael Meskes <meskes@debian.org>

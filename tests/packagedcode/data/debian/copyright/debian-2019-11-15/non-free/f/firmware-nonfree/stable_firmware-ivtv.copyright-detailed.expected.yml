@@ -19,24 +19,18 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/licenses/hauppauge-firmware-oem.LICENSE
         matched_text: |
           OEM/IHV/ISV FIRMWARE LICENSE AGREEMENT
-
           IMPORTANT - PLEASE READ BEFORE INSTALLING OR USING THIS FIRMWARE
-
           Do not use or load this firmware image (the "Firmware") until you have
           carefully read the following terms and conditions. By loading or using
           the Firmware, you agree to the terms of this Agreement. If you do not
           wish to so agree, do not install or use the Firmware.
-
           LICENSEES: Please note:
-
           * If you are an End-User, only the END-USER FIRMWARE LICENSE AGREEMENT
-            applies.
-
+          applies.
           * If you are an Original Equipment Manufacturer (OEM), Independent
-            Hardware Vendor (IHV), or Independent Firmware Vendor (ISV), the
-            OEM/IHV/ISV FIRMWARE LICENSE AGREEMENT applies (this license), as
-            well as the END-USER FIRMWARE LICENSE AGREEMENT.
-
+          Hardware Vendor (IHV), or Independent Firmware Vendor (ISV), the
+          OEM/IHV/ISV FIRMWARE LICENSE AGREEMENT applies (this license), as
+          well as the END-USER FIRMWARE LICENSE AGREEMENT.
           LICENSE. This Firmware is licensed for use only in conjunction with
           Hauppauge component products. Use of the Firmware in conjunction with
           non-Hauppauge component products is not licensed hereunder. Subject to
@@ -49,7 +43,6 @@ license_detections:
           END-USER FIRMWARE LICENSE AGREEMENT; and (iii) modify, copy and
           distribute the end-user documentation which may accompany the
           Firmware, but only in association with the Firmware.
-
           If you are not the final manufacturer or vendor of a computer system
           or firmware program incorporating the Firmware, then you may transfer
           a copy of the Firmware, including any related documentation (modified
@@ -65,7 +58,6 @@ license_detections:
           Firmware. Your rights to redistribute the Firmware shall be contingent
           upon your installation of this Agreement in its entirety in the same
           directory as the Firmware.
-
           CONTRACTORS. For the purpose of this Agreement, and notwithstanding
           anything to the contrary hereunder, solely with respect to the
           requirements for compliance with the terms hereunder, any contractors
@@ -75,12 +67,10 @@ license_detections:
           be bound by the terms of the END-USER FIRMWARE LICENSE AGREEMENT. No
           additional agreement between You and such consultants or contractors
           is required under this Agreement to detail such compliance.
-
           TRADEMARKS. Except as expressly provided herein, you shall not use
           Hauppauge's name in any publications, advertisements, or other
           announcements without Hauppauge's prior written consent. You do not
           have any rights to use any Hauppauge trademarks or logos.
-
           OWNERSHIP OF FIRMWARE AND COPYRIGHTS. Firmware and accompanying
           materials, if any, are owned by Hauppauge or its suppliers and
           licensors and may be protected by copyright, trademark, patent and
@@ -92,7 +82,6 @@ license_detections:
           free of liens, attachments, and other encumbrances. You agree not to
           remove any proprietary notices and/or any labels from the Firmware and
           accompanying materials without prior written approval by Hauppauge
-
           EXCLUSION OF WARRANTIES.
           THE FIRMWARE IS PROVIDED "AS IS" AND POSSIBLY WITH FAULTS. UNLESS
           EXPRESSLY AGREED OTHERWISE, HAUPPAUGE AND ITS SUPPLIERS AND LICENSORS
@@ -104,7 +93,6 @@ license_detections:
           items contained within the Firmware. You assume all liability,
           financial or otherwise, associated with Your use or disposition of the
           Firmware.
-
           LIMITATION OF LIABILITY. IN NO EVENT SHALL HAUPPAUGE OR ITS SUPPLIERS
           AND LICENSORS BE LIABLE FOR ANY DAMAGES WHATSOEVER FROM ANY CAUSE OF
           ACTION OF ANY KIND (INCLUDING, WITHOUT LIMITATION, LOST PROFITS,
@@ -116,7 +104,6 @@ license_detections:
           OR LIMITATION OF LIABILITY FOR IMPLIED WARRANTIES OR CONSEQUENTIAL OR
           INCIDENTAL DAMAGES, SO CERTAIN LIMITATIONS MAY NOT APPLY. YOU MAY ALSO
           HAVE OTHER LEGAL RIGHTS THAT VARY BETWEEN JURISDICTIONS.
-
           WAIVER AND AMENDMENT. No modification, amendment or waiver of any
           provision of this Agreement shall be effective unless in writing and
           signed by an officer of Hauppauge. No failure or delay in exercising
@@ -126,14 +113,12 @@ license_detections:
           materials submitted by you to Hauppauge, and any terms contained in
           Hauppauges standard acknowledgment form that are in conflict with
           these terms, shall be of no force or effect.
-
           SEVERABILITY. If any provision of this Agreement is held by a court of
           competent jurisdiction to be contrary to law, such provision shall be
           changed and interpreted so as to best accomplish the objectives of the
           original provision to the fullest extent allowed by law and the
           remaining provisions of this Agreement shall remain in full force and
           effect.
-
           EXPORT RESTRICTIONS. Each party acknowledges that the Firmware is
           subject to applicable import and export regulations of the United
           States and of the countries in which each party transacts business,
@@ -146,7 +131,6 @@ license_detections:
           place or party in accordance with U.S. export regulations. Note that
           Firmware containing encryption may be subject to additional
           restrictions.
-
           APPLICABLE LAWS. Claims arising under this Agreement shall be governed
           by the laws of New York, excluding its principles of conflict of laws
           and the United Nations Convention on Contracts for the Sale of
@@ -154,7 +138,6 @@ license_detections:
           export laws and regulations. Hauppauge is not obligated under any
           other agreements unless they are in writing and signed by an
           authorized representative of Hauppauge.
-
           GOVERNMENT RESTRICTED RIGHTS. The Firmware is provided with
           "RESTRICTED RIGHTS." Use, duplication, or disclosure by the Government
           is subject to restrictions as set forth in FAR52.227-14 and
@@ -162,7 +145,6 @@ license_detections:
           the Government constitutes acknowledgment of Hauppauge's proprietary
           rights therein. Contractor or Manufacturer is Hauppauge Computer
           Works, Inc.  91 Cabot Court Hauppauge, NY 11788
-
           TERMINATION OF THIS AGREEMENT. Hauppauge may terminate this Agreement
           at any time if you violate its terms. Upon termination, you will
           immediately destroy the Firmware or return all copies of the Firmware

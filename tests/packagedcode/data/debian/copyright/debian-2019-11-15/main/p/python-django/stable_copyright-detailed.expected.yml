@@ -58,9 +58,7 @@ other_license_detections:
           Licensed under the Apache License, Version 2.0 (the "License");
           you may not use this file except in compliance with the License.
           You may obtain a copy of the License at
-
           http://www.apache.org/licenses/LICENSE-2.0
-
           Unless required by applicable law or agreed to in writing, software
           distributed under the License is distributed on an "AS IS" BASIS,
           WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -99,10 +97,8 @@ other_license_detections:
           distribute, sublicense, and/or sell copies of the Software, and to
           permit persons to whom the Software is furnished to do so, subject to
           the following conditions:
-
           The above copyright notice and this permission notice shall be
           included in all copies or substantial portions of the Software.
-
           THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
           EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
           MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
@@ -126,12 +122,10 @@ other_license_detections:
         matched_text: |
           PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
           --------------------------------------------
-
           1. This LICENSE AGREEMENT is between the Guilherme Gondim, Simon
           Willison and Drew Perttula ("Baseconv Authors"), and the Individual or
           Organization ("Licensee") accessing and otherwise using this software
           ("Baseconv") in source or binary form and its associated documentation.
-
           2. Subject to the terms and conditions of this License Agreement,
           Baseconv Authors hereby grants Licensee a nonexclusive, royalty-free,
           world-wide license to reproduce, analyze, test, perform and/or display
@@ -142,35 +136,29 @@ other_license_detections:
           (c) 2009 Simon Willison.; Copyright (c) 2002 Drew Perttula.; All Rights
           Reserved" are retained in Baseconv alone or in any derivative version
           prepared by Licensee.
-
           3. In the event Licensee prepares a derivative work that is based on or
           incorporates Baseconv or any part thereof, and wants to make the
           derivative work available to others as provided herein, then Licensee
           hereby agrees to include in any such work a brief summary of the changes
           made to Baseconv.
-
           4. Baseconv Authors is making Baseconv available to Licensee on
           an "AS IS" basis.  BASECONV AUTHORS MAKES NO REPRESENTATIONS OR
           WARRANTIES, EXPRESS OR IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION,
           BASECONV AUTHORS MAKES NO AND DISCLAIMS ANY REPRESENTATION OR
           WARRANTY OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR
           THAT THE USE OF PYTHON WILL NOT INFRINGE ANY THIRD PARTY RIGHTS.
-
           5. BASECONV AUTHORS SHALL NOT BE LIABLE TO LICENSEE OR ANY
           OTHER USERS OF PYTHON FOR ANY INCIDENTAL, SPECIAL, OR CONSEQUENTIAL
           DAMAGES OR LOSS AS A RESULT OF MODIFYING, DISTRIBUTING, OR OTHERWISE
           USING PYTHON, OR ANY DERIVATIVE THEREOF, EVEN IF ADVISED OF THE
           POSSIBILITY THEREOF.
-
           6. This License Agreement will automatically terminate upon a material
           breach of its terms and conditions.
-
           7. Nothing in this License Agreement shall be deemed to create any
           relationship of agency, partnership, or joint venture between Baseconv
           Authors and Licensee.  This License Agreement does not grant permission
           to use Baseconv Authors trademarks or trade name in a trademark sense to
           endorse or promote products or services of Licensee, or any third party.
-
           8. By copying, installing or otherwise using Baseconv, Licensee agrees
           to be bound by the terms and conditions of this License Agreement.
   - license_expression: bsd-simplified
@@ -189,14 +177,11 @@ other_license_detections:
         matched_text: |
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions are met:
-
-             1. Redistributions of source code must retain the above copyright notice,
-                this list of conditions and the following disclaimer.
-
-             2. Redistributions in binary form must reproduce the above copyright
-                notice, this list of conditions and the following disclaimer in the
-                documentation and/or other materials provided with the distribution.
-
+          1. Redistributions of source code must retain the above copyright notice,
+          this list of conditions and the following disclaimer.
+          2. Redistributions in binary form must reproduce the above copyright
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
           AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
@@ -223,18 +208,14 @@ other_license_detections:
         matched_text: |
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions are met:
-
-             1. Redistributions of source code must retain the above copyright notice,
-                this list of conditions and the following disclaimer.
-
-             2. Redistributions in binary form must reproduce the above copyright
-                notice, this list of conditions and the following disclaimer in the
-                documentation and/or other materials provided with the distribution.
-
-             3. Neither the name of <NAME> nor the names of its contributors may be use
-                to endorse or promote products derived from this software without
-                specific prior written permission.
-
+          1. Redistributions of source code must retain the above copyright notice,
+          this list of conditions and the following disclaimer.
+          2. Redistributions in binary form must reproduce the above copyright
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
+          3. Neither the name of <NAME> nor the names of its contributors may be use
+          to endorse or promote products derived from this software without
+          specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
           AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE

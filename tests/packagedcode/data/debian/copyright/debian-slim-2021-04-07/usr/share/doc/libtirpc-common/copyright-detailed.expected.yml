@@ -114,7 +114,6 @@ other_license_detections:
           - Neither the name of Sun Microsystems, Inc. nor the names of its
           contributors may be used to endorse or promote products derived
           from this software without specific prior written permission.
-
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
           AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -148,7 +147,6 @@ other_license_detections:
           2. Redistributions in binary form must reproduce the above copyright
           notice, this list of conditions and the following disclaimer in the
           documentation and/or other materials provided with the distribution.
-
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -188,7 +186,6 @@ other_license_detections:
           4. Neither the name of the author nor the names of any co-contributors
           may be used to endorse or promote products derived from this software
           without specific prior written permission.
-
           THIS SOFTWARE IS PROVIDED BY Bill Paul AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -228,7 +225,6 @@ other_license_detections:
           Public License, version 2.1 or later - see the file COPYING.LIB for details.
           If you did not receive a copy of the license with this program, please
           see <http://www.gnu.org/licenses/> to obtain a copy.
-
           On Debian systems, the complete text of the GNU Lesser General Public License
           Version 2.1 can be found in `/usr/share/common-licenses/LGPL-2.1'.
   - license_expression: gpl-2.0
@@ -258,16 +254,13 @@ other_license_detections:
           This program is free software; you can redistribute it and/or modify
           it under the terms of the GNU General Public License, v2, as
           published by the Free Software Foundation
-
           This program is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
           GNU General Public License for more details.
-
           You should have received a copy of the GNU General Public License along
           with this program; if not, write to the Free Software Foundation, Inc.,
           51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
-
           On Debian systems, the complete text of the GNU General Public
           License version 2 can be found in `/usr/share/common-licenses/GPL-2'.
 copyright: |

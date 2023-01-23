@@ -35,7 +35,6 @@ other_license_detections:
           under the terms of the GNU General Public License as published by the
           Free Software Foundation; either version 3 of the License, or (at your
           option) any later version.
-
           On Debian systems, the complete text of the GNU General Public License
           version 3 can be found in file "/usr/share/common-licenses/GPL-3".
 copyright: © 2015-2017 Guilhem Moulin <guilhem@fripost.org>

@@ -65,16 +65,13 @@ license_detections:
           the terms of the GNU General Public License as published by the Free
           Software Foundation; either version 3, or (at your option) any later
           version.
-
           GCC is distributed in the hope that it will be useful, but WITHOUT ANY
           WARRANTY; without even the implied warranty of MERCHANTABILITY or
           FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License
           for more details.
-
           Files that have exception clauses are licensed under the terms of the
           GNU General Public License; either version 3, or (at your option) any
           later version.
-
           On Debian GNU/Linux systems, the complete text of the GNU General
           Public License is in `/usr/share/common-licenses/GPL', version 3 of this
           license in `/usr/share/common-licenses/GPL-3'.
@@ -105,22 +102,22 @@ license_detections:
         rule_identifier: bsd-new_98.RULE
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/bsd-new_98.RULE
         matched_text: "Redistribution and use in source and binary forms, with or without\n\
-          modification, are permitted provided that the following conditions are\nmet:\n\n \
-          \   (1) Redistributions of source code must retain the above copyright\n    notice,\
-          \ this list of conditions and the following disclaimer. \n\n    (2) Redistributions\
-          \ in binary form must reproduce the above copyright\n    notice, this list of conditions\
-          \ and the following disclaimer in\n    the documentation and/or other materials provided\
-          \ with the\n    distribution.  \n    \n    (3) The name of the author may not be used\
-          \ to\n    endorse or promote products derived from this software without\n    specific\
-          \ prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND\
-          \ ANY EXPRESS OR\nIMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\n\
-          WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED.\
-          \ IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT,\nINDIRECT, INCIDENTAL, SPECIAL,\
-          \ EXEMPLARY, OR CONSEQUENTIAL DAMAGES\n(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT\
-          \ OF SUBSTITUTE GOODS OR\nSERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)\n\
-          HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,\nSTRICT LIABILITY,\
-          \ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING\nIN ANY WAY OUT OF THE USE OF\
-          \ THIS SOFTWARE, EVEN IF ADVISED OF THE\nPOSSIBILITY OF SUCH DAMAGE."
+          modification, are permitted provided that the following conditions are\nmet:\n(1)\
+          \ Redistributions of source code must retain the above copyright\nnotice, this list\
+          \ of conditions and the following disclaimer. \n(2) Redistributions in binary form\
+          \ must reproduce the above copyright\nnotice, this list of conditions and the following\
+          \ disclaimer in\nthe documentation and/or other materials provided with the\ndistribution.\
+          \  \n(3) The name of the author may not be used to\nendorse or promote products derived\
+          \ from this software without\nspecific prior written permission.\nTHIS SOFTWARE IS\
+          \ PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR\nIMPLIED WARRANTIES, INCLUDING,\
+          \ BUT NOT LIMITED TO, THE IMPLIED\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A\
+          \ PARTICULAR PURPOSE ARE\nDISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY\
+          \ DIRECT,\nINDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES\n(INCLUDING,\
+          \ BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR\nSERVICES; LOSS OF USE, DATA,\
+          \ OR PROFITS; OR BUSINESS INTERRUPTION)\nHOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,\
+          \ WHETHER IN CONTRACT,\nSTRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)\
+          \ ARISING\nIN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE\nPOSSIBILITY\
+          \ OF SUCH DAMAGE."
   - license_expression: uoi-ncsa AND mit
     detection_log:
       - not-combined
@@ -141,19 +138,15 @@ license_detections:
           use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
           of the Software, and to permit persons to whom the Software is furnished to do
           so, subject to the following conditions:
-
-              * Redistributions of source code must retain the above copyright notice,
-                this list of conditions and the following disclaimers.
-
-              * Redistributions in binary form must reproduce the above copyright notice,
-                this list of conditions and the following disclaimers in the
-                documentation and/or other materials provided with the distribution.
-
-              * Neither the names of the LLVM Team, University of Illinois at
-                Urbana-Champaign, nor the names of its contributors may be used to
-                endorse or promote products derived from this Software without specific
-                prior written permission.
-
+          * Redistributions of source code must retain the above copyright notice,
+          this list of conditions and the following disclaimers.
+          * Redistributions in binary form must reproduce the above copyright notice,
+          this list of conditions and the following disclaimers in the
+          documentation and/or other materials provided with the distribution.
+          * Neither the names of the LLVM Team, University of Illinois at
+          Urbana-Champaign, nor the names of its contributors may be used to
+          endorse or promote products derived from this Software without specific
+          prior written permission.
           THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
           IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
           FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -177,10 +170,8 @@ license_detections:
           to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
           copies of the Software, and to permit persons to whom the Software is
           furnished to do so, subject to the following conditions:
-
           The above copyright notice and this permission notice shall be included in
           all copies or substantial portions of the Software.
-
           THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
           IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
           FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -203,23 +194,21 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/mit_1083.RULE
         matched_text: |
           Permission is hereby granted, free of charge, to any person obtaining
-              a copy of this software and associated documentation files (the
-              ``Software''), to deal in the Software without restriction, including
-              without limitation the rights to use, copy, modify, merge, publish,
-              distribute, sublicense, and/or sell copies of the Software, and to
-              permit persons to whom the Software is furnished to do so, subject to
-              the following conditions:
-
-              The above copyright notice and this permission notice shall be included
-              in all copies or substantial portions of the Software.
-
-              THE SOFTWARE IS PROVIDED ``AS IS'', WITHOUT WARRANTY OF ANY KIND, EXPRESS
-              OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-              MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-              IN NO EVENT SHALL CYGNUS SOLUTIONS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-              OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-              ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-              OTHER DEALINGS IN THE SOFTWARE.
+          a copy of this software and associated documentation files (the
+          ``Software''), to deal in the Software without restriction, including
+          without limitation the rights to use, copy, modify, merge, publish,
+          distribute, sublicense, and/or sell copies of the Software, and to
+          permit persons to whom the Software is furnished to do so, subject to
+          the following conditions:
+          The above copyright notice and this permission notice shall be included
+          in all copies or substantial portions of the Software.
+          THE SOFTWARE IS PROVIDED ``AS IS'', WITHOUT WARRANTY OF ANY KIND, EXPRESS
+          OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+          MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+          IN NO EVENT SHALL CYGNUS SOLUTIONS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+          OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+          ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+          OTHER DEALINGS IN THE SOFTWARE.
       - score: '100.0'
         start_line: 237
         end_line: 239
@@ -244,49 +233,38 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/licenses/gcc-exception-3.1.LICENSE
         matched_text: |
           GCC RUNTIME LIBRARY EXCEPTION
-
           Version 3.1, 31 March 2009
-
           Copyright (C) 2009 Free Software Foundation, Inc. <http://fsf.org/>
-
           Everyone is permitted to copy and distribute verbatim copies of this
           license document, but changing it is not allowed.
-
           This GCC Runtime Library Exception ("Exception") is an additional
           permission under section 7 of the GNU General Public License, version
           3 ("GPLv3"). It applies to a given file (the "Runtime Library") that
           bears a notice placed by the copyright holder of the file stating that
           the file is governed by GPLv3 along with this Exception.
-
           When you use GCC to compile a program, GCC may combine portions of
           certain GCC header files and runtime libraries with the compiled
           program. The purpose of this Exception is to allow compilation of
           non-GPL (including proprietary) programs to use, in this way, the
           header files and runtime libraries covered by this Exception.
-
           0. Definitions.
-
           A file is an "Independent Module" if it either requires the Runtime
           Library for execution after a Compilation Process, or makes use of an
           interface provided by the Runtime Library, but is not otherwise based
           on the Runtime Library.
-
           "GCC" means a version of the GNU Compiler Collection, with or without
           modifications, governed by version 3 (or a specified later version) of
           the GNU General Public License (GPL) with the option of using any
           subsequent versions published by the FSF.
-
           "GPL-compatible Software" is software whose conditions of propagation,
           modification and use would permit combination with GCC in accord with
           the license of GCC.
-
           "Target Code" refers to output from any compiler for a real or virtual
           target processor architecture, in executable form or suitable for
           input to an assembler, loader, linker and/or execution
           phase. Notwithstanding that, Target Code does not include data in any
           format that is used as a compiler intermediate representation, or used
           for producing a compiler intermediate representation.
-
           The "Compilation Process" transforms code entirely represented in
           non-intermediate languages designed for human-written code, and/or in
           Java Virtual Machine byte code, into Target Code. Thus, for example,
@@ -294,24 +272,19 @@ license_detections:
           part of the Compilation Process, since the Compilation Process can be
           understood as starting with the output of the generators or
           preprocessors.
-
           A Compilation Process is "Eligible" if it is done using GCC, alone or
           with other GPL-compatible software, or if it is done without using any
           work based on GCC. For example, using non-GPL-compatible Software to
           optimize any GCC intermediate representations would not qualify as an
           Eligible Compilation Process.
-
           1. Grant of Additional Permission.
-
           You have permission to propagate a work of Target Code formed by
           combining the Runtime Library with Independent Modules, even if such
           propagation would otherwise violate the terms of GPLv3, provided that
           all Target Code was generated by Eligible Compilation Processes. You
           may then convey such a combination under terms of your choice,
           consistent with the licensing of the Independent Modules.
-
           2. No Weakening of GCC Copyleft.
-
           The availability of this Exception does not imply any general
           presumption that third-party software is unaffected by the copyleft
           requirements of the license of GCC.
@@ -334,7 +307,6 @@ license_detections:
           modify it under the terms of the GNU Library General Public
           License as published by the Free Software Foundation; either
           version 2 of the License, or (at your option) any later version.
-
           Libiberty is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
@@ -354,14 +326,13 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/lgpl-2.1-plus_34.RULE
         matched_text: |
           This library is free software; you can redistribute it and/or
-              modify it under the terms of the GNU Lesser General Public
-              License as published by the Free Software Foundation; either
-              version 2.1 of the License, or (at your option) any later version.
-
-              This library is distributed in the hope that it will be useful,
-              but WITHOUT ANY WARRANTY; without even the implied warranty of
-              MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-              Lesser General Public License for more details.
+          modify it under the terms of the GNU Lesser General Public
+          License as published by the Free Software Foundation; either
+          version 2.1 of the License, or (at your option) any later version.
+          This library is distributed in the hope that it will be useful,
+          but WITHOUT ANY WARRANTY; without even the implied warranty of
+          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+          Lesser General Public License for more details.
   - license_expression: lgpl-2.1-plus
     detection_log:
       - not-combined
@@ -377,14 +348,13 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/lgpl-2.1-plus_34.RULE
         matched_text: |
           This library is free software; you can redistribute it and/or
-              modify it under the terms of the GNU Lesser General Public
-              License as published by the Free Software Foundation; either
-              version 2.1 of the License, or (at your option) any later version.
-
-              This library is distributed in the hope that it will be useful,
-              but WITHOUT ANY WARRANTY; without even the implied warranty of
-              MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-              Lesser General Public License for more details.
+          modify it under the terms of the GNU Lesser General Public
+          License as published by the Free Software Foundation; either
+          version 2.1 of the License, or (at your option) any later version.
+          This library is distributed in the hope that it will be useful,
+          but WITHOUT ANY WARRANTY; without even the implied warranty of
+          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+          Lesser General Public License for more details.
   - license_expression: lgpl-2.1-plus
     detection_log:
       - not-combined
@@ -400,14 +370,13 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/lgpl-2.1-plus_327.RULE
         matched_text: |
           The GNU C Library is free software; you can redistribute it and/or
-             modify it under the terms of the GNU Lesser General Public
-             License as published by the Free Software Foundation; either
-             version 2.1 of the License, or (at your option) any later version.
-
-             The GNU C Library is distributed in the hope that it will be useful,
-             but WITHOUT ANY WARRANTY; without even the implied warranty of
-             MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-             Lesser General Public License for more details.
+          modify it under the terms of the GNU Lesser General Public
+          License as published by the Free Software Foundation; either
+          version 2.1 of the License, or (at your option) any later version.
+          The GNU C Library is distributed in the hope that it will be useful,
+          but WITHOUT ANY WARRANTY; without even the implied warranty of
+          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+          Lesser General Public License for more details.
   - license_expression: public-domain
     detection_log:
       - not-combined
@@ -437,14 +406,13 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/lgpl-2.1-plus_327.RULE
         matched_text: |
           The GNU C Library is free software; you can redistribute it and/or
-             modify it under the terms of the GNU Lesser General Public
-             License as published by the Free Software Foundation; either
-             version 2.1 of the License, or (at your option) any later version.
-
-             The GNU C Library is distributed in the hope that it will be useful,
-             but WITHOUT ANY WARRANTY; without even the implied warranty of
-             MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-             Lesser General Public License for more details.
+          modify it under the terms of the GNU Lesser General Public
+          License as published by the Free Software Foundation; either
+          version 2.1 of the License, or (at your option) any later version.
+          The GNU C Library is distributed in the hope that it will be useful,
+          but WITHOUT ANY WARRANTY; without even the implied warranty of
+          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+          Lesser General Public License for more details.
   - license_expression: lgpl-2.1-plus
     detection_log:
       - not-combined
@@ -460,14 +428,13 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/lgpl-2.1-plus_34.RULE
         matched_text: |
           This library is free software; you can redistribute it and/or
-              modify it under the terms of the GNU Lesser General Public
-              License as published by the Free Software Foundation; either
-              version 2.1 of the License, or (at your option) any later version.
-
-              This library is distributed in the hope that it will be useful,
-              but WITHOUT ANY WARRANTY; without even the implied warranty of
-              MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-              Lesser General Public License for more details.
+          modify it under the terms of the GNU Lesser General Public
+          License as published by the Free Software Foundation; either
+          version 2.1 of the License, or (at your option) any later version.
+          This library is distributed in the hope that it will be useful,
+          but WITHOUT ANY WARRANTY; without even the implied warranty of
+          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+          Lesser General Public License for more details.
   - license_expression: sunpro
     detection_log:
       - not-combined
@@ -483,9 +450,9 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/licenses/sunpro.LICENSE
         matched_text: |
           Developed at SunPro, a Sun Microsystems, Inc. business.
-           * Permission to use, copy, modify, and distribute this
-           * software is freely granted, provided that this notice
-           * is preserved.
+          * Permission to use, copy, modify, and distribute this
+          * software is freely granted, provided that this notice
+          * is preserved.
   - license_expression: bsd-new
     detection_log:
       - not-combined
@@ -503,17 +470,15 @@ license_detections:
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions are
           met:
-
-             * Redistributions of source code must retain the above copyright
+          * Redistributions of source code must retain the above copyright
           notice, this list of conditions and the following disclaimer.
-             * Redistributions in binary form must reproduce the above
+          * Redistributions in binary form must reproduce the above
           copyright notice, this list of conditions and the following disclaimer
           in the documentation and/or other materials provided with the
           distribution.
-             * Neither the name of Google Inc. nor the names of its
+          * Neither the name of Google Inc. nor the names of its
           contributors may be used to endorse or promote products derived from
           this software without specific prior written permission.
-
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
           "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
           LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
@@ -543,7 +508,6 @@ license_detections:
           it under the terms of the GNU General Public License as published by
           the Free Software Foundation; either version 2 of the License, or
           (at your option) any later version.
-
           On Debian GNU/Linux systems, the complete text of the GNU General
           Public License is in `/usr/share/common-licenses/GPL', version 2 of this
           license in `/usr/share/common-licenses/GPL-2'.
@@ -563,7 +527,6 @@ license_detections:
         matched_text: |
           License for redistribution is by either the Artistic License or
           the GNU General Public License (v1).
-
           On Debian GNU/Linux systems, the complete text of the GNU General
           Public License is in `/usr/share/common-licenses/GPL', the Artistic
           license in `/usr/share/common-licenses/Artistic'.
@@ -582,20 +545,18 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/licenses/zlib.LICENSE
         matched_text: |
           This software is provided 'as-is', without any express or implied
-            warranty.  In no event will the authors be held liable for any damages
-            arising from the use of this software.
-
-            Permission is granted to anyone to use this software for any purpose,
-            including commercial applications, and to alter it and redistribute it
-            freely, subject to the following restrictions:
-
-            1. The origin of this software must not be misrepresented; you must not
-               claim that you wrote the original software. If you use this software
-               in a product, an acknowledgment in the product documentation would be
-               appreciated but is not required.
-            2. Altered source versions must be plainly marked as such, and must not be
-               misrepresented as being the original software.
-            3. This notice may not be removed or altered from any source distribution.
+          warranty.  In no event will the authors be held liable for any damages
+          arising from the use of this software.
+          Permission is granted to anyone to use this software for any purpose,
+          including commercial applications, and to alter it and redistribute it
+          freely, subject to the following restrictions:
+          1. The origin of this software must not be misrepresented; you must not
+          claim that you wrote the original software. If you use this software
+          in a product, an acknowledgment in the product documentation would be
+          appreciated but is not required.
+          2. Altered source versions must be plainly marked as such, and must not be
+          misrepresented as being the original software.
+          3. This notice may not be removed or altered from any source distribution.
   - license_expression: d-zlib
     detection_log:
       - not-combined
@@ -613,20 +574,18 @@ license_detections:
           This software is provided 'as-is', without any express or implied
           warranty. In no event will the authors be held liable for any damages
           arising from the use of this software.
-
           Permission is granted to anyone to use this software for any purpose,
           including commercial applications, and to alter it and redistribute it
           freely, in both source and binary form, subject to the following
           restrictions:
-
-           o  The origin of this software must not be misrepresented; you must not
-              claim that you wrote the original software. If you use this software
-              in a product, an acknowledgment in the product documentation would be
-              appreciated but is not required.
-           o  Altered source versions must be plainly marked as such, and must not
-              be misrepresented as being the original software.
-           o  This notice may not be removed or altered from any source
-              distribution.
+          o  The origin of this software must not be misrepresented; you must not
+          claim that you wrote the original software. If you use this software
+          in a product, an acknowledgment in the product documentation would be
+          appreciated but is not required.
+          o  Altered source versions must be plainly marked as such, and must not
+          be misrepresented as being the original software.
+          o  This notice may not be removed or altered from any source
+          distribution.
   - license_expression: mit
     detection_log:
       - not-combined
@@ -642,23 +601,21 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/licenses/mit.LICENSE
         matched_text: |
           Permission is hereby granted, free of charge, to any person obtaining a
-             copy of this software and associated documentation files
-             (the "Software"), to deal in the Software without restriction, including
-             without limitation the rights to use, copy, modify, merge, publish,
-             distribute, sublicense, and/or sell copies of the Software, and to
-             permit persons to whom the Software is furnished to do so, subject to
-             the following conditions:
-
-             The above copyright notice and this permission notice shall be included
-             in all copies or substantial portions of the Software.
-
-             THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-             OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-             MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-             IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
-             DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
-             OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
-             USE OR OTHER DEALINGS IN THE SOFTWARE.
+          copy of this software and associated documentation files
+          (the "Software"), to deal in the Software without restriction, including
+          without limitation the rights to use, copy, modify, merge, publish,
+          distribute, sublicense, and/or sell copies of the Software, and to
+          permit persons to whom the Software is furnished to do so, subject to
+          the following conditions:
+          The above copyright notice and this permission notice shall be included
+          in all copies or substantial portions of the Software.
+          THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+          OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+          MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+          IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+          DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+          OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+          USE OR OTHER DEALINGS IN THE SOFTWARE.
   - license_expression: gpl-3.0-plus WITH gcc-exception-3.1
     detection_log:
       - not-combined
@@ -674,23 +631,20 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/gpl-3.0-plus_with_gcc-exception-3.1_10.RULE
         matched_text: |
           This file is free software; you can redistribute it and/or modify it
-             under the terms of the GNU General Public License as published by the
-             Free Software Foundation; either version 3, or (at your option) any
-             later version.
-
-             This file is distributed in the hope that it will be useful, but
-             WITHOUT ANY WARRANTY; without even the implied warranty of
-             MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-             General Public License for more details.
-
-             Under Section 7 of GPL version 3, you are granted additional
-             permissions described in the GCC Runtime Library Exception, version
-             3.1, as published by the Free Software Foundation.
-
-             You should have received a copy of the GNU General Public License and
-             a copy of the GCC Runtime Library Exception along with this program;
-             see the files COPYING3 and COPYING.RUNTIME respectively.  If not, see
-             <http://www.gnu.org/licenses/>.
+          under the terms of the GNU General Public License as published by the
+          Free Software Foundation; either version 3, or (at your option) any
+          later version.
+          This file is distributed in the hope that it will be useful, but
+          WITHOUT ANY WARRANTY; without even the implied warranty of
+          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+          General Public License for more details.
+          Under Section 7 of GPL version 3, you are granted additional
+          permissions described in the GCC Runtime Library Exception, version
+          3.1, as published by the Free Software Foundation.
+          You should have received a copy of the GNU General Public License and
+          a copy of the GCC Runtime Library Exception along with this program;
+          see the files COPYING3 and COPYING.RUNTIME respectively.  If not, see
+          <http://www.gnu.org/licenses/>.
   - license_expression: gpl-3.0-plus
     detection_log:
       - not-combined
@@ -709,7 +663,6 @@ license_detections:
           it under the terms of the GNU General Public License as published by
           the Free Software Foundation; either version 3, or (at your option)
           any later version.
-
           GNU Modula-2 is distributed in the hope that it will be useful, but
           WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
@@ -750,7 +703,6 @@ license_detections:
           modify it under the terms of the GNU Lesser General Public
           License as published by the Free Software Foundation; either
           version 2.1 of the License, or (at your option) any later version.
-
           This library is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
@@ -791,7 +743,6 @@ license_detections:
           modify it under the terms of the GNU Lesser General Public
           License as published by the Free Software Foundation; either
           version 2.1 of the License, or (at your option) any later version.
-
           This library is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
@@ -814,7 +765,6 @@ license_detections:
           modify it under the terms of the GNU Lesser General Public
           License as published by the Free Software Foundation; either
           version 2.1 of the License, or (at your option) any later version.
-
           This library is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
@@ -837,7 +787,6 @@ license_detections:
           it under the terms of the GNU General Public License as published by
           the Free Software Foundation; either version 3, or (at your option)
           any later version.
-
           GNU Modula-2 is distributed in the hope that it will be useful, but
           WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
@@ -860,7 +809,6 @@ license_detections:
           the terms of the GNU General Public License as published by the Free
           Software Foundation; either version 3, or (at your option) any later
           version.
-
           GNU Modula-2 is distributed in the hope that it will be useful, but WITHOUT ANY
           WARRANTY; without even the implied warranty of MERCHANTABILITY or
           FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License
@@ -893,7 +841,6 @@ license_detections:
           modify it under the terms of the GNU Lesser General Public
           License as published by the Free Software Foundation; either
           version 2.1 of the License, or (at your option) any later version.
-
           This library is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
@@ -916,7 +863,6 @@ license_detections:
           the terms of the GNU General Public License as published by the Free
           Software Foundation; either version 3, or (at your option) any later
           version.
-
           GNU Modula-2 is distributed in the hope that it will be useful, but WITHOUT ANY
           WARRANTY; without even the implied warranty of MERCHANTABILITY or
           FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License
@@ -940,7 +886,6 @@ license_detections:
           modify it under the terms of the GNU Lesser General Public
           License as published by the Free Software Foundation; either
           version 2.1 of the License, or (at your option) any later version.
-
           This library is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
@@ -1055,7 +1000,6 @@ license_detections:
           modify it under the terms of the GNU Lesser General Public
           License as published by the Free Software Foundation; either
           version 2.1 of the License, or (at your option) any later version.
-
           This library is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
@@ -1091,15 +1035,15 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/lgpl-2.1-plus_396.RULE
         matched_text: |
           License: LGPL-2.1+
-           This library is free software; you can redistribute it and/or
-           modify it under the terms of the GNU Library General Public
-           License as published by the Free Software Foundation; either
-           version 2.1 of the License, or (at your option) any later version.
-           .
-           This library is distributed in the hope that it will be useful,
-           but WITHOUT ANY WARRANTY; without even the implied warranty of
-           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
-           Library General Public License for more details.
+          This library is free software; you can redistribute it and/or
+          modify it under the terms of the GNU Library General Public
+          License as published by the Free Software Foundation; either
+          version 2.1 of the License, or (at your option) any later version.
+          .
+          This library is distributed in the hope that it will be useful,
+          but WITHOUT ANY WARRANTY; without even the implied warranty of
+          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+          Library General Public License for more details.
   - license_expression: gpl-3.0-plus
     detection_log:
       - not-combined
@@ -1118,7 +1062,6 @@ license_detections:
           the terms of the GNU General Public License as published by the Free
           Software Foundation; either version 3, or (at your option) any later
           version.
-
           GNU Modula-2 is distributed in the hope that it will be useful, but WITHOUT ANY
           WARRANTY; without even the implied warranty of MERCHANTABILITY or
           FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License
@@ -1141,7 +1084,6 @@ license_detections:
           it under the terms of the GNU General Public License as published by
           the Free Software Foundation; either version 3, or (at your option)
           any later version.
-
           GNU Modula-2 is distributed in the hope that it will be useful, but
           WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
@@ -1164,7 +1106,6 @@ license_detections:
           the terms of the GNU General Public License as published by the Free
           Software Foundation; either version 3, or (at your option) any later
           version.
-
           GNU Modula-2 is distributed in the hope that it will be useful, but WITHOUT ANY
           WARRANTY; without even the implied warranty of MERCHANTABILITY or
           FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License
@@ -1187,7 +1128,6 @@ license_detections:
           it under the terms of the GNU General Public License as published by
           the Free Software Foundation; either version 3, or (at your option)
           any later version.
-
           GNU Modula-2 is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
@@ -1209,7 +1149,6 @@ license_detections:
           Parts of this work are licensed under the terms of the GNU General
           Public License. On Debian systems, the complete text of this license
           can be found in /usr/share/common-licenses/GPL.
-
           Parts of this work are licensed under the terms of the GNU Library
           General Public License. On Debian systems, the complete text of this
           license be found in /usr/share/common-licenses/LGPL.
@@ -1278,18 +1217,17 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           3. All advertising materials mentioning features or use of this software
-             must display the following acknowledgement:
-               This product includes software developed by the University of
-               California, Berkeley and its contributors.
+          must display the following acknowledgement:
+          This product includes software developed by the University of
+          California, Berkeley and its contributors.
           4. Neither the name of the University nor the names of its contributors
-             may be used to endorse or promote products derived from this software
-             without specific prior written permission.
-
+          may be used to endorse or promote products derived from this software
+          without specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -1319,14 +1257,13 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           3. Neither the name of the University nor the names of its contributors
-             may be used to endorse or promote products derived from this software
-             without specific prior written permission.
-
+          may be used to endorse or promote products derived from this software
+          without specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -1356,18 +1293,17 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           3. All advertising materials mentioning features or use of this software
-             must display the following acknowledgement:
-               This product includes software developed by the University of
-               California, Berkeley and its contributors.
+          must display the following acknowledgement:
+          This product includes software developed by the University of
+          California, Berkeley and its contributors.
           4. Neither the name of the University nor the names of its contributors
-             may be used to endorse or promote products derived from this software
-             without specific prior written permission.
-
+          may be used to endorse or promote products derived from this software
+          without specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -1458,7 +1394,6 @@ license_detections:
           is included in all copies of any software which is or includes a copy
           or modification of this software and in all copies of the supporting
           documentation for such software.
-
           THIS SOFTWARE IS BEING PROVIDED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED
           WARRANTY.  IN PARTICULAR, NEITHER THE AUTHOR NOR AT&T MAKES ANY
           REPRESENTATION OR WARRANTY OF ANY KIND CONCERNING THE MERCHANTABILITY
@@ -1481,12 +1416,10 @@ license_detections:
           specifically  grants the user the right to modify, use and distribute this
           software provided this notice is not removed or altered.  All other rights
           are reserved by AMD.
-
           AMD MAKES NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH REGARD TO THIS
           SOFTWARE.  IN NO EVENT SHALL AMD BE LIABLE FOR INCIDENTAL OR CONSEQUENTIAL
           DAMAGES IN CONNECTION WITH OR ARISING FROM THE FURNISHING, PERFORMANCE, OR
           USE OF THIS SOFTWARE.
-
           So that all may benefit from your experience, please report  any  problems
           or  suggestions about this software
   - license_expression: sunpro
@@ -1521,7 +1454,7 @@ license_detections:
         matched_text: |
           To anyone who acknowledges that this file is provided "AS IS"
           without any express or implied warranty:
-              permission to use, copy, modify, and distribute this file
+          permission to use, copy, modify, and distribute this file
           for any purpose is hereby granted without fee, provided that
           the above copyright notice and this notice appears in all
           copies, and that the name of Hewlett-Packard Company not be
@@ -1546,7 +1479,6 @@ license_detections:
           Permission to use, copy, modify, and distribute this software is
           freely granted, provided that the above copyright notice, this notice
           and the following disclaimer are preserved with no changes.
-
           THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
           IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
           WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
@@ -1592,13 +1524,12 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           3. The name of the author may not be used to endorse or promote products
-             derived from this software without specific prior written permission.
-
+          derived from this software without specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
           IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
           OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
@@ -1624,12 +1555,12 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/amd-historical4.RULE
         matched_text: "This software is the property of SuperH, Inc (SuperH) which specifically\n\
           grants the user the right to modify, use and distribute this software\nprovided this\
-          \ notice is not removed or altered.  All other rights are\nreserved by SuperH.\n\n\
-          SUPERH MAKES NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH REGARD TO\nTHIS SOFTWARE.\
+          \ notice is not removed or altered.  All other rights are\nreserved by SuperH.\nSUPERH\
+          \ MAKES NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH REGARD TO\nTHIS SOFTWARE.\
           \  IN NO EVENT SHALL SUPERH BE LIABLE FOR INDIRECT, SPECIAL, \nINCIDENTAL OR CONSEQUENTIAL\
           \ DAMAGES IN CONNECTION WITH OR ARISING FROM\nTHE FURNISHING, PERFORMANCE, OR USE\
-          \ OF THIS SOFTWARE.\n\nSo that all may benefit from your experience, please report\
-          \ any problems\nor suggestions about this software to the"
+          \ OF THIS SOFTWARE.\nSo that all may benefit from your experience, please report any\
+          \ problems\nor suggestions about this software to the"
   - license_expression: bsd-new
     detection_log:
       - not-combined
@@ -1647,18 +1578,14 @@ license_detections:
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions
           are met:
-
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
-
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           3. Neither the name of KTH nor the names of its contributors may be
-             used to endorse or promote products derived from this software without
-             specific prior written permission.
-
+          used to endorse or promote products derived from this software without
+          specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY KTH AND ITS CONTRIBUTORS ``AS IS'' AND ANY
           EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
@@ -1688,11 +1615,10 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -1722,11 +1648,10 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -1756,11 +1681,10 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -1791,7 +1715,6 @@ license_detections:
           is included in all copies of any software which is or includes a copy
           or modification of this software and in all copies of the supporting
           documentation for such software.
-
           THIS SOFTWARE IS BEING PROVIDED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED
           WARRANTY.  IN PARTICULAR,  THE AUTHOR MAKES NO REPRESENTATION
           OR WARRANTY OF ANY KIND CONCERNING THE MERCHANTABILITY OF THIS
@@ -1814,11 +1737,10 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -1848,13 +1770,12 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           3. The name of the author may not be used to endorse or promote products
-             derived from this software without specific prior written permission.
-
+          derived from this software without specific prior written permission.
           THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES,
           INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
           AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL
@@ -1894,19 +1815,17 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/lgpl-2.1-plus_12.RULE
         matched_text: |
           The GNU C Library is free software; you can redistribute it and/or
-             modify it under the terms of the GNU Lesser General Public
-             License as published by the Free Software Foundation; either
-             version 2.1 of the License, or (at your option) any later version.
-
-             The GNU C Library is distributed in the hope that it will be useful,
-             but WITHOUT ANY WARRANTY; without even the implied warranty of
-             MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-             Lesser General Public License for more details.
-
-             You should have received a copy of the GNU Lesser General Public
-             License along with the GNU C Library; if not, write to the Free
-             Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
-             02110-1301 USA
+          modify it under the terms of the GNU Lesser General Public
+          License as published by the Free Software Foundation; either
+          version 2.1 of the License, or (at your option) any later version.
+          The GNU C Library is distributed in the hope that it will be useful,
+          but WITHOUT ANY WARRANTY; without even the implied warranty of
+          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+          Lesser General Public License for more details.
+          You should have received a copy of the GNU Lesser General Public
+          License along with the GNU C Library; if not, write to the Free
+          Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
+          02110-1301 USA
       - score: '99.0'
         start_line: 1504
         end_line: 1504
@@ -1926,13 +1845,15 @@ license_detections:
         license_expression: lgpl-2.0-plus
         rule_identifier: lgpl-2.0-plus_339.RULE
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/lgpl-2.0-plus_339.RULE
-        matched_text: "This program is free software; you can redistribute it and/or\nmodify\
-          \ it under the terms of the GNU Library General Public License\nas published by the\
-          \ Free Software Foundation; either version 2\nof the License, or (at your option)\
-          \ any later version.\n                                                     \nThis\
-          \ program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY;\
-          \ without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR\
-          \ PURPOSE.  See the\nGNU Library General Public License for more details."
+        matched_text: |
+          This program is free software; you can redistribute it and/or
+          modify it under the terms of the GNU Library General Public License
+          as published by the Free Software Foundation; either version 2
+          of the License, or (at your option) any later version.
+          This program is distributed in the hope that it will be useful,
+          but WITHOUT ANY WARRANTY; without even the implied warranty of
+          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+          GNU Library General Public License for more details.
   - license_expression: intel-osl-1993
     detection_log:
       - not-combined
@@ -1957,7 +1878,6 @@ license_detections:
           Corporation not be used in advertising or publicity pertaining to
           distribution of the software or the documentation without specific,
           written prior permission.
-
           Intel Corporation provides this AS IS, WITHOUT ANY WARRANTY, EXPRESS OR
           IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY
           OR FITNESS FOR A PARTICULAR PURPOSE.  Intel makes no guarantee or
@@ -1965,7 +1885,6 @@ license_detections:
           the software and documentation in terms of correctness, accuracy,
           reliability, currentness, or otherwise; and you rely on the software,
           documentation and results solely at your own risk.
-
           IN NO EVENT SHALL INTEL BE LIABLE FOR ANY LOSS OF USE, LOSS OF BUSINESS,
           LOSS OF PROFITS, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES
           OF ANY KIND.  IN NO EVENT SHALL INTEL'S TOTAL LIABILITY EXCEED THE SUM
@@ -1986,7 +1905,7 @@ license_detections:
         matched_text: |
           To anyone who acknowledges that this file is provided "AS IS"
           without any express or implied warranty:
-              permission to use, copy, modify, and distribute this file
+          permission to use, copy, modify, and distribute this file
           for any purpose is hereby granted without fee, provided that
           the above copyright notice and this notice appears in all
           copies, and that the name of Hewlett-Packard Company not be
@@ -2010,22 +1929,17 @@ license_detections:
         matched_text: |
           This software is not subject to any license of the American Telephone
           and Telegraph Company or of the Regents of the University of California.
-
           Permission is granted to anyone to use this software for any purpose on
           any computer system, and to alter it and redistribute it, subject
           to the following restrictions:
-
           1. The author is not responsible for the consequences of use of this
-             software, no matter how awful, even if they arise from flaws in it.
-
+          software, no matter how awful, even if they arise from flaws in it.
           2. The origin of this software must not be misrepresented, either by
-             explicit claim or by omission.  Since few users ever read sources,
-             credits must appear in the documentation.
-
+          explicit claim or by omission.  Since few users ever read sources,
+          credits must appear in the documentation.
           3. Altered versions must be plainly marked as such, and must not be
-             misrepresented as being the original software.  Since few users
-             ever read sources, credits must appear in the documentation.
-
+          misrepresented as being the original software.  Since few users
+          ever read sources, credits must appear in the documentation.
           4. This notice may not be removed or altered.
   - license_expression: bsd-simplified
     detection_log:
@@ -2045,11 +1959,10 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -2079,11 +1992,10 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -2113,11 +2025,10 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -2143,23 +2054,22 @@ license_detections:
         rule_identifier: bsd-new_983.RULE
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/bsd-new_983.RULE
         matched_text: "Redistribution and use in source and binary forms, with or without \n\
-          modification, are permitted provided that the following conditions are met: \n\n \
-          \   Redistributions of source code must retain the above copyright \n    notice, this\
-          \ list of conditions and the following disclaimer.\n\n    Redistributions in binary\
-          \ form must reproduce the above copyright\n    notice, this list of conditions and\
-          \ the following disclaimer in the\n    documentation and/or other materials provided\
-          \ with the distribution.\n\n    The name of Red Hat Incorporated may not be used to\
-          \ endorse \n    or promote products derived from this software without specific \n\
-          \    prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS\
-          \ AND CONTRIBUTORS \"AS IS\" \nAND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT\
-          \ NOT LIMITED TO, THE \nIMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR\
-          \ PURPOSE ARE\nDISCLAIMED.  IN NO EVENT SHALL RED HAT INCORPORATED BE LIABLE FOR ANY\n\
-          DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES\n(INCLUDING,\
-          \ BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;\nLOSS OF USE, DATA,\
-          \ OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND \nON ANY THEORY OF LIABILITY,\
-          \ WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE)\
-          \ ARISING IN ANY WAY OUT OF THE USE OF THIS\nSOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY\
-          \ OF SUCH DAMAGE."
+          modification, are permitted provided that the following conditions are met: \nRedistributions\
+          \ of source code must retain the above copyright \nnotice, this list of conditions\
+          \ and the following disclaimer.\nRedistributions in binary form must reproduce the\
+          \ above copyright\nnotice, this list of conditions and the following disclaimer in\
+          \ the\ndocumentation and/or other materials provided with the distribution.\nThe name\
+          \ of Red Hat Incorporated may not be used to endorse \nor promote products derived\
+          \ from this software without specific \nprior written permission.\nTHIS SOFTWARE IS\
+          \ PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" \nAND ANY EXPRESS OR\
+          \ IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE \nIMPLIED WARRANTIES OF MERCHANTABILITY\
+          \ AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED.  IN NO EVENT SHALL RED HAT\
+          \ INCORPORATED BE LIABLE FOR ANY\nDIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,\
+          \ OR CONSEQUENTIAL DAMAGES\n(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE\
+          \ GOODS OR SERVICES;\nLOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\
+          \ CAUSED AND \nON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,\
+          \ OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF\
+          \ THIS\nSOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
 other_license_detections: []
 copyright: |
   Copyright (c) 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019

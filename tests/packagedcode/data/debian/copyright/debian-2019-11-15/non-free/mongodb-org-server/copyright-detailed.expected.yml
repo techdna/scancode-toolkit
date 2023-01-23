@@ -19,9 +19,7 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/mongodb-sspl-1.0_9.RULE
         matched_text: |
           License:
-
-              SSPL
-
+          SSPL
           The Debian packaging is (C) 2009, Kristina Chodorow <kristina@10gen.com> and
           is licensed under the SSPL, see `https://www.mongodb.com/licensing/server-side-public-license'.
 other_license_detections: []

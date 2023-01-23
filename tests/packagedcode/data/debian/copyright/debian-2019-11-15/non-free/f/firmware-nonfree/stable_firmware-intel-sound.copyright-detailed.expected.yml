@@ -32,16 +32,14 @@ license_detections:
           Redistribution.  Redistribution and use in binary form, without
           modification, are permitted provided that the following conditions are
           met:
-
           * Redistributions must reproduce the above copyright notice and the
-            following disclaimer in the documentation and/or other materials
-            provided with the distribution.
+          following disclaimer in the documentation and/or other materials
+          provided with the distribution.
           * Neither the name of Intel Corporation nor the names of its suppliers
-            may be used to endorse or promote products derived from this software
-            without specific prior written permission.
+          may be used to endorse or promote products derived from this software
+          without specific prior written permission.
           * No reverse engineering, decompilation, or disassembly of this software
-            is permitted.
-
+          is permitted.
           Limited patent license.  Intel Corporation grants a world-wide,
           royalty-free, non-exclusive license under patents it now or hereafter
           owns or controls to make, have made, use, import, offer to sell and
@@ -52,7 +50,6 @@ license_detections:
           http://opensource.org/licenses.  The patent license shall not apply to
           any other combinations which include this software.  No hardware per
           se is licensed hereunder.
-
           DISCLAIMER.  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
           CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
           BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
@@ -80,29 +77,24 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/intel_2.RULE
         matched_text: |
           Redistribution.
-
           Redistribution and use in binary form, without modification, are permitted
           provided that the following conditions are met:
           *    Redistributions must reproduce the above copyright notice and the
-               following disclaimer in the documentation and/or other materials provided
-               with the distribution.
+          following disclaimer in the documentation and/or other materials provided
+          with the distribution.
           *    Neither the name of Intel Corporation nor the names of its suppliers may
-               be used to endorse or promote products derived from this software without
-               specific prior written permission.
+          be used to endorse or promote products derived from this software without
+          specific prior written permission.
           *    No reverse engineering, decompilation, or disassembly of this software is
-               permitted.
-
+          permitted.
           Limited patent license.
-
           Intel Corporation grants a world-wide, royalty-free, non-exclusive license
           under patents it now or hereafter owns or controls to make, have made, use,
           import, offer to sell and sell ("Utilize") this software, but solely to the
           extent that any such patent is necessary to Utilize the software alone. The
           patent license shall not apply to any combinations which include this software.
           No hardware per se is licensed hereunder.
-
           DISCLAIMER.
-
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
           AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -131,29 +123,24 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/intel_2.RULE
         matched_text: |
           Redistribution.
-
           Redistribution and use in binary form, without modification, are permitted
           provided that the following conditions are met:
           *    Redistributions must reproduce the above copyright notice and the
-               following disclaimer in the documentation and/or other materials provided
-               with the distribution.
+          following disclaimer in the documentation and/or other materials provided
+          with the distribution.
           *    Neither the name of Intel Corporation nor the names of its suppliers may
-               be used to endorse or promote products derived from this software without
-               specific prior written permission.
+          be used to endorse or promote products derived from this software without
+          specific prior written permission.
           *    No reverse engineering, decompilation, or disassembly of this software is
-               permitted.
-
+          permitted.
           Limited patent license.
-
           Intel Corporation grants a world-wide, royalty-free, non-exclusive license
           under patents it now or hereafter owns or controls to make, have made, use,
           import, offer to sell and sell ("Utilize") this software, but solely to the
           extent that any such patent is necessary to Utilize the software alone. The
           patent license shall not apply to any combinations which include this software.
           No hardware per se is licensed hereunder.
-
           DISCLAIMER.
-
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
           AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -176,7 +163,6 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/license-intro_55.RULE
         matched_text: |
           The newlib subdirectory is a collection of software from several sources.
-
           Each file may have its own copyright/license that is embedded in the source
           file.  Unless otherwise noted in the body of the source file(s), the following copyright
           notices will apply to the contents of the newlib subdirectory:
@@ -212,16 +198,14 @@ license_detections:
         matched_text: |
           Redistribution and use in source and binary forms, with or without modification,
           are permitted provided that the following conditions are met:
-
-              * Redistributions of source code must retain the above copyright notice,
-                this list of conditions and the following disclaimer.
-              * Redistributions in binary form must reproduce the above copyright notice,
-                this list of conditions and the following disclaimer in the documentation
-                and/or other materials provided with the distribution.
-              * Neither the name of the University nor the names of its contributors
-                may be used to endorse or promote products derived from this software
-                without specific prior written permission.
-
+          * Redistributions of source code must retain the above copyright notice,
+          this list of conditions and the following disclaimer.
+          * Redistributions in binary form must reproduce the above copyright notice,
+          this list of conditions and the following disclaimer in the documentation
+          and/or other materials provided with the distribution.
+          * Neither the name of the University nor the names of its contributors
+          may be used to endorse or promote products derived from this software
+          without specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
           AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
           WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
@@ -247,7 +231,6 @@ license_detections:
           is included in all copies of any software which is or includes a copy
           or modification of this software and in all copies of the supporting
           documentation for such software.
-
           THIS SOFTWARE IS BEING PROVIDED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED
           WARRANTY.  IN PARTICULAR, NEITHER THE AUTHOR NOR AT&T MAKES ANY
           REPRESENTATION OR WARRANTY OF ANY KIND CONCERNING THE MERCHANTABILITY
@@ -271,7 +254,6 @@ license_detections:
           not be used in advertising or publicity pertaining to
           distribution of the software without specific, written prior
           permission.
-
           LUCENT DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE,
           INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS.
           IN NO EVENT SHALL LUCENT OR ANY OF ITS ENTITIES BE LIABLE FOR ANY
@@ -294,12 +276,10 @@ license_detections:
           specifically  grants the user the right to modify, use and distribute this
           software provided this notice is not removed or altered.  All other rights
           are reserved by AMD.
-
           AMD MAKES NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH REGARD TO THIS
           SOFTWARE.  IN NO EVENT SHALL AMD BE LIABLE FOR INCIDENTAL OR CONSEQUENTIAL
           DAMAGES IN CONNECTION WITH OR ARISING FROM THE FURNISHING, PERFORMANCE, OR
           USE OF THIS SOFTWARE.
-
           So that all may benefit from your experience, please report  any  problems
           or  suggestions about this software
       - score: '100.0'
@@ -327,7 +307,7 @@ license_detections:
         matched_text: |
           To anyone who acknowledges that this file is provided "AS IS"
           without any express or implied warranty:
-              permission to use, copy, modify, and distribute this file
+          permission to use, copy, modify, and distribute this file
           for any purpose is hereby granted without fee, provided that
           the above copyright notice and this notice appears in all
           copies, and that the name of Hewlett-Packard Company not be
@@ -348,7 +328,6 @@ license_detections:
           Permission to use, copy, modify, and distribute this software is
           freely granted, provided that the above copyright notice, this notice
           and the following disclaimer are preserved with no changes.
-
           THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
           IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
           WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
@@ -386,13 +365,12 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           3. The name of the author may not be used to endorse or promote products
-             derived from this software without specific prior written permission.
-
+          derived from this software without specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
           IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
           OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
@@ -417,12 +395,10 @@ license_detections:
           grants the user the right to modify, use and distribute this software
           provided this notice is not removed or altered.  All other rights are
           reserved by SuperH.
-
           SUPERH MAKES NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH REGARD TO
           THIS SOFTWARE.  IN NO EVENT SHALL SUPERH BE LIABLE FOR INDIRECT, SPECIAL,
           INCIDENTAL OR CONSEQUENTIAL DAMAGES IN CONNECTION WITH OR ARISING FROM
           THE FURNISHING, PERFORMANCE, OR USE OF THIS SOFTWARE.
-
           So that all may benefit from your experience, please report any problems
           or suggestions about this software to the
       - score: '100.0'
@@ -438,18 +414,14 @@ license_detections:
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions
           are met:
-
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
-
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           3. Neither the name of KTH nor the names of its contributors may be
-             used to endorse or promote products derived from this software without
-             specific prior written permission.
-
+          used to endorse or promote products derived from this software without
+          specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY KTH AND ITS CONTRIBUTORS ``AS IS'' AND ANY
           EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
@@ -475,11 +447,10 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -505,11 +476,10 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -535,11 +505,10 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -566,7 +535,6 @@ license_detections:
           is included in all copies of any software which is or includes a copy
           or modification of this software and in all copies of the supporting
           documentation for such software.
-
           THIS SOFTWARE IS BEING PROVIDED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED
           WARRANTY.  IN PARTICULAR,  THE AUTHOR MAKES NO REPRESENTATION
           OR WARRANTY OF ANY KIND CONCERNING THE MERCHANTABILITY OF THIS
@@ -585,11 +553,10 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -615,13 +582,12 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           3. The name of the author may not be used to endorse or promote products
-             derived from this software without specific prior written permission.
-
+          derived from this software without specific prior written permission.
           THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES,
           INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
           AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL
@@ -645,7 +611,6 @@ license_detections:
           Redistribution, modification, and use in source and binary forms is permitted
           provided that the above copyright notice and following paragraph are
           duplicated in all such forms.
-
           This file is distributed WITHOUT ANY WARRANTY; without even the implied
           warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
       - score: '100.0'
@@ -668,7 +633,6 @@ license_detections:
           Corporation not be used in advertising or publicity pertaining to
           distribution of the software or the documentation without specific,
           written prior permission.
-
           Intel Corporation provides this AS IS, WITHOUT ANY WARRANTY, EXPRESS OR
           IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY
           OR FITNESS FOR A PARTICULAR PURPOSE.  Intel makes no guarantee or
@@ -676,7 +640,6 @@ license_detections:
           the software and documentation in terms of correctness, accuracy,
           reliability, currentness, or otherwise; and you rely on the software,
           documentation and results solely at your own risk.
-
           IN NO EVENT SHALL INTEL BE LIABLE FOR ANY LOSS OF USE, LOSS OF BUSINESS,
           LOSS OF PROFITS, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES
           OF ANY KIND.  IN NO EVENT SHALL INTEL'S TOTAL LIABILITY EXCEED THE SUM
@@ -693,7 +656,7 @@ license_detections:
         matched_text: |
           To anyone who acknowledges that this file is provided "AS IS"
           without any express or implied warranty:
-              permission to use, copy, modify, and distribute this file
+          permission to use, copy, modify, and distribute this file
           for any purpose is hereby granted without fee, provided that
           the above copyright notice and this notice appears in all
           copies, and that the name of Hewlett-Packard Company not be
@@ -715,11 +678,10 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -745,11 +707,10 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -775,11 +736,10 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -802,28 +762,26 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/bsd-new_206.RULE
         matched_text: |
           Redistribution and use in source and binary forms, with or without
-            modification, are permitted provided that the following conditions are met:
-
-              * Redistributions of source code must retain the above copyright notice,
-                this list of conditions and the following disclaimer.
-              * Redistributions in binary form must reproduce the above copyright
-                notice, this list of conditions and the following disclaimer in the
-                documentation and/or other materials provided with the distribution.
-              * Neither the names of the copyright holders nor the names of their
-                contributors may be used to endorse or promote products derived from this
-                software without specific prior written permission.
-
-            THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-            AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-            IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-            ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
-            LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
-            CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
-            SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
-            INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
-            CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
-            ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
-            POSSIBILITY OF SUCH DAMAGE.
+          modification, are permitted provided that the following conditions are met:
+          * Redistributions of source code must retain the above copyright notice,
+          this list of conditions and the following disclaimer.
+          * Redistributions in binary form must reproduce the above copyright
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
+          * Neither the names of the copyright holders nor the names of their
+          contributors may be used to endorse or promote products derived from this
+          software without specific prior written permission.
+          THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+          AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+          IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+          ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
+          LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+          CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+          SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+          INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+          CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+          ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+          POSSIBILITY OF SUCH DAMAGE.
       - score: '100.0'
         start_line: 723
         end_line: 742
@@ -835,25 +793,24 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/bsd-simplified_8.RULE
         matched_text: |
           Redistribution and use in source and binary forms, with or without
-            modification, are permitted provided that the following conditions
-            are met:
-            1. Redistributions of source code must retain the above copyright
-               notice, this list of conditions and the following disclaimer.
-            2. Redistributions in binary form must reproduce the above copyright
-               notice, this list of conditions and the following disclaimer in the
-               documentation and/or other materials provided with the distribution.
-
-            THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND
-            ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-            IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-            ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR BE LIABLE
-            FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-            DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
-            OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-            HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
-            LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
-            OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
-            SUCH DAMAGE.
+          modification, are permitted provided that the following conditions
+          are met:
+          1. Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+          2. Redistributions in binary form must reproduce the above copyright
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
+          THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND
+          ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+          IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+          ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR BE LIABLE
+          FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+          DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+          OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+          HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+          LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+          OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+          SUCH DAMAGE.
       - score: '100.0'
         start_line: 749
         end_line: 768
@@ -865,25 +822,24 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/bsd-simplified_27.RULE
         matched_text: |
           Redistribution and use in source and binary forms, with or without
-            modification, are permitted provided that the following conditions
-            are met:
-            1. Redistributions of source code must retain the above copyright
-               notice, this list of conditions and the following disclaimer.
-            2. Redistributions in binary form must reproduce the above copyright
-               notice, this list of conditions and the following disclaimer in the
-               documentation and/or other materials provided with the distribution.
-
-            THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
-            ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-            IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-            ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
-            FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-            DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
-            OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-            HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
-            LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
-            OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
-            SUCH DAMAGE.
+          modification, are permitted provided that the following conditions
+          are met:
+          1. Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+          2. Redistributions in binary form must reproduce the above copyright
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
+          THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
+          ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+          IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+          ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
+          FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+          DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+          OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+          HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+          LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+          OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+          SUCH DAMAGE.
       - score: '100.0'
         start_line: 775
         end_line: 794
@@ -895,25 +851,24 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/bsd-simplified_newlib3.RULE
         matched_text: |
           Redistribution and use in source and binary forms, with or without
-            modification, are permitted provided that the following conditions
-            are met:
-            1. Redistributions of source code must retain the above copyright
-               notice, this list of conditions and the following disclaimer.
-            2. Redistributions in binary form must reproduce the above copyright
-               notice, this list of conditions and the following disclaimer in the
-               documentation and/or other materials provided with the distribution.
-
-            THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND
-            ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-            IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-            ARE DISCLAIMED.  IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE
-            FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-            DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
-            OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-            HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
-            LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
-            OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
-            SUCH DAMAGE.
+          modification, are permitted provided that the following conditions
+          are met:
+          1. Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+          2. Redistributions in binary form must reproduce the above copyright
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
+          THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND
+          ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+          IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+          ARE DISCLAIMED.  IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE
+          FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+          DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+          OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+          HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+          LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+          OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+          SUCH DAMAGE.
       - score: '100.0'
         start_line: 801
         end_line: 820
@@ -925,25 +880,24 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/bsd-simplified_newlib5.RULE
         matched_text: |
           Redistribution and use in source and binary forms, with or without
-            modification, are permitted provided that the following conditions
-            are met:
-            1. Redistributions of source code must retain the above copyright
-               notice, this list of conditions and the following disclaimer.
-            2. Redistributions in binary form must reproduce the above copyright
-               notice, this list of conditions and the following disclaimer in the
-               documentation and/or other materials provided with the distribution.
-
-            THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
-            ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-            IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-            ARE DISCLAIMED.  IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE
-            FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-            DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
-            OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-            HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
-            LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
-            OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
-            SUCH DAMAGE.
+          modification, are permitted provided that the following conditions
+          are met:
+          1. Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+          2. Redistributions in binary form must reproduce the above copyright
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
+          THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
+          ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+          IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+          ARE DISCLAIMED.  IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE
+          FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+          DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+          OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+          HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+          LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+          OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+          SUCH DAMAGE.
       - score: '100.0'
         start_line: 827
         end_line: 846
@@ -955,25 +909,24 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/bsd-simplified_27.RULE
         matched_text: |
           Redistribution and use in source and binary forms, with or without
-           modification, are permitted provided that the following conditions
-           are met:
-           1. Redistributions of source code must retain the above copyright
-           notice, this list of conditions and the following disclaimer.
-           2. Redistributions in binary form must reproduce the above copyright
-           notice, this list of conditions and the following disclaimer in the
-           documentation and/or other materials provided with the distribution.
-
-           THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
-           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-           ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
-           FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-           DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
-           OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-           HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
-           LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
-           OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
-           SUCH DAMAGE.
+          modification, are permitted provided that the following conditions
+          are met:
+          1. Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+          2. Redistributions in binary form must reproduce the above copyright
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
+          THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
+          ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+          IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+          ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
+          FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+          DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+          OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+          HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+          LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+          OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+          SUCH DAMAGE.
       - score: '100.0'
         start_line: 854
         end_line: 875
@@ -985,27 +938,26 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/bsd-new_183.RULE
         matched_text: |
           Redistribution and use in source and binary forms, with or without
-           modification, are permitted provided that the following conditions
-           are met:
-           1. Redistributions of source code must retain the above copyright
-              notice, this list of conditions and the following disclaimer.
-           2. Redistributions in binary form must reproduce the above copyright
-              notice, this list of conditions and the following disclaimer in the
-              documentation and/or other materials provided with the distribution.
-           3. The name of the company may not be used to endorse or promote
-              products derived from this software without specific prior written
-              permission.
-
-           THIS SOFTWARE IS PROVIDED BY ARM LTD ``AS IS'' AND ANY EXPRESS OR IMPLIED
-           WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
-           MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
-           IN NO EVENT SHALL ARM LTD BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-           SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
-           TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
-           PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
-           LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
-           NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-           SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+          modification, are permitted provided that the following conditions
+          are met:
+          1. Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+          2. Redistributions in binary form must reproduce the above copyright
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
+          3. The name of the company may not be used to endorse or promote
+          products derived from this software without specific prior written
+          permission.
+          THIS SOFTWARE IS PROVIDED BY ARM LTD ``AS IS'' AND ANY EXPRESS OR IMPLIED
+          WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+          MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+          IN NO EVENT SHALL ARM LTD BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+          SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+          TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+          PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+          LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+          NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+          SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
       - score: '100.0'
         start_line: 881
         end_line: 906
@@ -1019,18 +971,14 @@ license_detections:
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions are
           met:
-
           1.  Redistributions source code must retain the above copyright notice,
           this list of conditions and the following disclaimer.
-
           2.  Redistributions in binary form must reproduce the above copyright
           notice, this list of conditions and the following disclaimer in the
           documentation and/or other materials provided with the distribution.
-
           3.  Neither the name of Xilinx nor the names of its contributors may be
           used to endorse or promote products derived from this software without
           specific prior written permission.
-
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS "AS
           IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
           TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
@@ -1053,33 +1001,29 @@ license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/bsd-new_517.RULE
         matched_text: |
           Redistribution and  use in source  and binary forms, with  or without
-           modification,  are permitted provided  that the  following conditions
-           are met:
-
-              Redistributions  of source  code must  retain the  above copyright
-              notice, this list of conditions and the following disclaimer.
-
-              Redistributions in binary form  must reproduce the above copyright
-              notice, this  list of conditions  and the following  disclaimer in
-              the  documentation  and/or   other  materials  provided  with  the
-              distribution.
-
-              Neither the  name of Texas Instruments Incorporated  nor the names
-              of its  contributors may  be used to  endorse or  promote products
-              derived  from   this  software  without   specific  prior  written
-              permission.
-
-           THIS SOFTWARE  IS PROVIDED BY THE COPYRIGHT  HOLDERS AND CONTRIBUTORS
-           "AS IS"  AND ANY  EXPRESS OR IMPLIED  WARRANTIES, INCLUDING,  BUT NOT
-           LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-           A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT
-           OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-           SPECIAL,  EXEMPLARY,  OR CONSEQUENTIAL  DAMAGES  (INCLUDING, BUT  NOT
-           LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-           DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-           THEORY OF  LIABILITY, WHETHER IN CONTRACT, STRICT  LIABILITY, OR TORT
-           (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-           OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+          modification,  are permitted provided  that the  following conditions
+          are met:
+          Redistributions  of source  code must  retain the  above copyright
+          notice, this list of conditions and the following disclaimer.
+          Redistributions in binary form  must reproduce the above copyright
+          notice, this  list of conditions  and the following  disclaimer in
+          the  documentation  and/or   other  materials  provided  with  the
+          distribution.
+          Neither the  name of Texas Instruments Incorporated  nor the names
+          of its  contributors may  be used to  endorse or  promote products
+          derived  from   this  software  without   specific  prior  written
+          permission.
+          THIS SOFTWARE  IS PROVIDED BY THE COPYRIGHT  HOLDERS AND CONTRIBUTORS
+          "AS IS"  AND ANY  EXPRESS OR IMPLIED  WARRANTIES, INCLUDING,  BUT NOT
+          LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+          A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT
+          OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+          SPECIAL,  EXEMPLARY,  OR CONSEQUENTIAL  DAMAGES  (INCLUDING, BUT  NOT
+          LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+          DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+          THEORY OF  LIABILITY, WHETHER IN CONTRACT, STRICT  LIABILITY, OR TORT
+          (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+          OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
       - score: '100.0'
         start_line: 947
         end_line: 955
@@ -1111,15 +1055,14 @@ license_detections:
         matched_text: |
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions are met:
-           * Redistributions of source code must retain the above copyright notice, this
-             list of conditions and the following disclaimer.
-           * Redistributions in binary form must reproduce the above copyright notice,
-             this list of conditions and the following disclaimer in the documentation
-             and/or other materials provided with the distribution.
-           * Neither the name of Adapteva nor the names of its contributors may be used
-             to endorse or promote products derived from this software without specific
-             prior written permission.
-
+          * Redistributions of source code must retain the above copyright notice, this
+          list of conditions and the following disclaimer.
+          * Redistributions in binary form must reproduce the above copyright notice,
+          this list of conditions and the following disclaimer in the documentation
+          and/or other materials provided with the distribution.
+          * Neither the name of Adapteva nor the names of its contributors may be used
+          to endorse or promote products derived from this software without specific
+          prior written permission.
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
           WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
@@ -1143,16 +1086,14 @@ license_detections:
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions
           are met:
-
-             o Redistributions of source code must retain the above copyright
-               notice, this list of conditions and the following disclaimer.
-             o Redistributions in binary form must reproduce the above copyright
-               notice, this list of conditions and the following disclaimer in the
-               documentation and/or other materials provided with the distribution.
-             o Neither the name of Altera Corporation nor the names of its
-               contributors may be used to endorse or promote products derived from
-               this software without specific prior written permission.
-
+          o Redistributions of source code must retain the above copyright
+          notice, this list of conditions and the following disclaimer.
+          o Redistributions in binary form must reproduce the above copyright
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
+          o Neither the name of Altera Corporation nor the names of its
+          contributors may be used to endorse or promote products derived from
+          this software without specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY ALTERA CORPORATION, THE COPYRIGHT HOLDER,
           AND ITS CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
           INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
@@ -1178,11 +1119,10 @@ license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer.
+          notice, this list of conditions and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE

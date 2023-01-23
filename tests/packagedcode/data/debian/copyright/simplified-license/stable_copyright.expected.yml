@@ -62,15 +62,12 @@ other_license_detections:
           The ASF licenses this file to You under the Apache License, Version 2.0
           (the "License"); you may not use this file except in compliance with
           the License.  You may obtain a copy of the License at
-
-               https://www.apache.org/licenses/LICENSE-2.0
-
+          https://www.apache.org/licenses/LICENSE-2.0
           Unless required by applicable law or agreed to in writing, software
           distributed under the License is distributed on an "AS IS" BASIS,
           WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
           See the License for the specific language governing permissions and
           limitations under the License.
-
           On Debian systems, the full text of the Apache Software License version 2 can
           be found in the file `/usr/share/common-licenses/Apache-2.0'.
   - license_expression: zeusbench
@@ -88,15 +85,15 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/rules/zeusbench_1.RULE
         matched_text: |
           This software is provided "as is" and any express or implied warranties,
-            including but not limited to, the implied warranties of merchantability and
-            fitness for a particular purpose are disclaimed.  In no event shall
-            Zeus Technology Ltd. be liable for any direct, indirect, incidental, special,
-            exemplary, or consequential damaged (including, but not limited to,
-            procurement of substitute good or services; loss of use, data, or profits;
-            or business interruption) however caused and on theory of liability.  Whether
-            in contract, strict liability or tort (including negligence or otherwise)
-            arising in any way out of the use of this software, even if advised of the
-            possibility of such damage
+          including but not limited to, the implied warranties of merchantability and
+          fitness for a particular purpose are disclaimed.  In no event shall
+          Zeus Technology Ltd. be liable for any direct, indirect, incidental, special,
+          exemplary, or consequential damaged (including, but not limited to,
+          procurement of substitute good or services; loss of use, data, or profits;
+          or business interruption) however caused and on theory of liability.  Whether
+          in contract, strict liability or tort (including negligence or otherwise)
+          arising in any way out of the use of this software, even if advised of the
+          possibility of such damage
   - license_expression: bsd-new
     detection_log:
       - not-combined
@@ -113,18 +110,14 @@ other_license_detections:
         matched_text: |
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions are met:
-
-             * Redistributions of source code must retain the above copyright notice,
-               this list of conditions and the following disclaimer.
-
-             * Redistributions in binary form must reproduce the above copyright
-               notice, this list of conditions and the following disclaimer in the
-               documentation and/or other materials provided with the distribution.
-
-             * Neither the name of the University of Cambridge nor the names of its
-               contributors may be used to endorse or promote products derived from
-               this software without specific prior written permission.
-
+          * Redistributions of source code must retain the above copyright notice,
+          this list of conditions and the following disclaimer.
+          * Redistributions in binary form must reproduce the above copyright
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
+          * Neither the name of the University of Cambridge nor the names of its
+          contributors may be used to endorse or promote products derived from
+          this software without specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
           AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -161,7 +154,6 @@ other_license_detections:
           representations about the suitability of this software for any
           purpose.  It is provided "as is" without express or implied
           warranty.
-
           CARNEGIE MELLON UNIVERSITY DISCLAIMS ALL WARRANTIES WITH REGARD TO
           THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
           AND FITNESS, IN NO EVENT SHALL CARNEGIE MELLON UNIVERSITY BE LIABLE
@@ -218,12 +210,10 @@ other_license_detections:
           it under the terms of the GNU General Public License as published by
           the Free Software Foundation, either version 3 of the License, or
           (at your option) any later version.
-
           This program is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
           GNU General Public License for more details.
-
           On Debian systems, the full text of the GNU General Public
           License version 2 can be found in the file
           `/usr/share/common-licenses/GPL-3'.
@@ -255,12 +245,10 @@ other_license_detections:
           modify it under the terms of the GNU General Public License
           as published by the Free Software Foundation; either version 2
           of the License, or (at your option) any later version.
-
           This program is distributed in the hope that it will be useful,
           but WITHOUT ANY WARRANTY; without even the implied warranty of
           MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
           GNU General Public License for more details.
-
           On Debian systems, the full text of the GNU General Public
           License version 2 can be found in the file
           `/usr/share/common-licenses/GPL-2'.
@@ -282,34 +270,27 @@ other_license_detections:
           written by Rob McCool (11/13/93 robm@ncsa.uiuc.edu).
           This version includes the mapping algorithms found in version 1.3
           of imagemap.c.
-
           Contributors to this code include:
-
           Kevin Hughes, kevinh@pulua.hcc.hawaii.edu
-
           Eric Haines, erich@eye.com
           "macmartinized" polygon code copyright 1992 by Eric Haines, erich@eye.com
-
           Randy Terbush, randy@zyzzyva.com
           port to Apache module format, "base_uri" and support for relative URLs
-
           James H. Cloos, Jr., cloos@jhcloos.com
           Added point datatype, using code in NCSA's version 1.8 imagemap.c
           program, as distributed with version 1.4.1 of their server.
           The point code is originally added by Craig Milo Rogers, Rogers@ISI.Edu
-
           Nathan Kurz, nate@tripod.com
           Rewrite/reorganization.  New handling of default, base and relative URLs.
           New Configuration directives:
-             ImapMenu {none, formatted, semiformatted, unformatted}
-             ImapDefault {error, nocontent, referer, menu, URL}
-             ImapBase {map, referer, URL}
+          ImapMenu {none, formatted, semiformatted, unformatted}
+          ImapDefault {error, nocontent, referer, menu, URL}
+          ImapBase {map, referer, URL}
           Support for creating non-graphical menu added.  (backwards compatible):
-             Old:  directive URL [x,y ...]
-             New:  directive URL "Menu text" [x,y ...]
-              or:  directive URL x,y ... "Menu text"
+          Old:  directive URL [x,y ...]
+          New:  directive URL "Menu text" [x,y ...]
+          or:  directive URL x,y ... "Menu text"
           Map format and menu concept courtesy Joshua Bell, jsbell@acs.ucalgary.ca.
-
           Mark Cox, mark@ukweb.com, Allow relative URLs even when no base specified
   - license_expression: bsd-simplified-darwin
     detection_log:
@@ -327,17 +308,15 @@ other_license_detections:
         matched_text: |
           This software is not subject to any export provision of the United States
           Department of Commerce, and may be exported to any country or planet.
-
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice immediately at the beginning of the file, without modification,
-             this list of conditions, and the following disclaimer.
+          notice immediately at the beginning of the file, without modification,
+          this list of conditions, and the following disclaimer.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
-
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
           ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -379,22 +358,17 @@ other_license_detections:
         matched_text: |
           This software is not subject to any license of the American Telephone and
           Telegraph Company or of the Regents of the University of California.
-
           Permission is granted to anyone to use this software for any purpose on any
           computer system, and to alter it and redistribute it freely, subject to
           the following restrictions:
-
           1. The author is not responsible for the consequences of use of this
           software, no matter how awful, even if they arise from flaws in it.
-
           2. The origin of this software must not be misrepresented, either by
           explicit claim or by omission.  Since few users ever read sources, credits
           must appear in the documentation.
-
           3. Altered versions must be plainly marked as such, and must not be
           misrepresented as being the original software.  Since few users ever read
           sources, credits must appear in the documentation.
-
           4. This notice may not be removed or altered.
   - license_expression: bsd-unchanged
     detection_log:
@@ -414,14 +388,13 @@ other_license_detections:
           modification, are permitted provided that the following conditions
           are met:
           1. Redistributions of source code must retain the above copyright
-             notice, this list of conditions and the following disclaimer
-             in this position and unchanged.
+          notice, this list of conditions and the following disclaimer
+          in this position and unchanged.
           2. Redistributions in binary form must reproduce the above copyright
-             notice, this list of conditions and the following disclaimer in the
-             documentation and/or other materials provided with the distribution.
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
           3. The name of the author may not be used to endorse or promote products
-             derived from this software withough specific prior written permission
-
+          derived from this software withough specific prior written permission
           THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
           IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
           OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
@@ -448,18 +421,14 @@ other_license_detections:
         matched_text: |
           Redistribution and use in source and binary forms, with or without
           modification, are permitted provided that the following conditions are met:
-
-             * Redistributions of source code must retain the above copyright notice,
-               this list of conditions and the following disclaimer.
-
-             * Redistributions in binary form must reproduce the above copyright
-               notice, this list of conditions and the following disclaimer in the
-               documentation and/or other materials provided with the distribution.
-
-             * Neither the name of the University of Cambridge nor the names of its
-               contributors may be used to endorse or promote products derived from
-               this software without specific prior written permission.
-
+          * Redistributions of source code must retain the above copyright notice,
+          this list of conditions and the following disclaimer.
+          * Redistributions in binary form must reproduce the above copyright
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
+          * Neither the name of the University of Cambridge nor the names of its
+          contributors may be used to endorse or promote products derived from
+          this software without specific prior written permission.
           THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
           AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
           IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -486,17 +455,17 @@ other_license_detections:
         rule_url: https://github.com/nexB/scancode-toolkit/tree/develop/src/licensedcode/data/licenses/bison-exception-2.2.LICENSE
         matched_text: |
           As a special exception, you may create a larger work that contains
-            part or all of the Bison parser skeleton and distribute that work
-            under terms of your choice, so long as that work isn't itself a
-            parser generator using the skeleton or a modified version thereof
-            as a parser skeleton.  Alternatively, if you modify or redistribute
-            the parser skeleton itself, you may (at your option) remove this
-            special exception, which will cause the skeleton and the resulting
-            Bison output files to be licensed under the GNU General Public
-            License without this special exception.
-            .
-            This special exception was added by the Free Software Foundation in
-            version 2.2 of Bison.  */
+          part or all of the Bison parser skeleton and distribute that work
+          under terms of your choice, so long as that work isn't itself a
+          parser generator using the skeleton or a modified version thereof
+          as a parser skeleton.  Alternatively, if you modify or redistribute
+          the parser skeleton itself, you may (at your option) remove this
+          special exception, which will cause the skeleton and the resulting
+          Bison output files to be licensed under the GNU General Public
+          License without this special exception.
+          .
+          This special exception was added by the Free Software Foundation in
+          version 2.2 of Bison.  */
   - license_expression: mit
     detection_log:
       - not-combined
@@ -517,10 +486,8 @@ other_license_detections:
           use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
           the Software, and to permit persons to whom the Software is furnished to do so,
           subject to the following conditions:
-
           The above copyright notice and this permission notice shall be included in all
           copies or substantial portions of the Software.
-
           THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
           IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
           FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
