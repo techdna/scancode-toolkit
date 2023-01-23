@@ -436,6 +436,7 @@ class LicenseDetection:
                     include_text=include_text,
                     license_text_diagnostics=license_text_diagnostics,
                     whole_lines=whole_lines,
+                    yaml_safe=True,
                 )
             )
 

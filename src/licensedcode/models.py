@@ -469,6 +469,7 @@ class License:
         data['scancode_url'] = self.scancode_url
         data['licensedb_url'] = self.licensedb_url
         data['spdx_url'] = self.spdx_url
+        data['text'] = get_yaml_safe_text(text=data['text'])
         return data
 
     def dump(self, licenses_data_dir):
@@ -1867,7 +1868,7 @@ class BasicRule:
         data['ignorable_authors'] = self.ignorable_authors
         data['ignorable_urls'] = self.ignorable_urls
         data['ignorable_emails'] = self.ignorable_emails
-        data['text'] = self.text
+        data['text'] = get_yaml_safe_text(text=self.text)
         return data
 
     def to_dict(self, include_text=False):
@@ -1967,6 +1968,28 @@ def as_int(num):
         if n == num:
             return n
     return num
+
+
+def get_yaml_safe_text(text):
+    """
+    Given a `text` return a YAML safe version of the text
+    after removing any left-leading whitespace, empty lines and
+    lines with only whitespace.
+    """
+    if not text:
+        return
+
+    lines = text.split("\n")
+    safe_lines = []
+
+    for line in lines:
+        if line and not line.isspace():
+            safe_lines.append(
+                line.lstrip()
+            )
+
+    safe_text = "\n".join(safe_lines)
+    return safe_text
 
 
 @attr.s(slots=True)

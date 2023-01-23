@@ -17,6 +17,7 @@ from attr import validators
 from licensedcode import MAX_DIST
 from licensedcode import SMALL_RULE
 from licensedcode import query
+from licensedcode.models import get_yaml_safe_text
 from licensedcode.spans import Span
 from licensedcode.stopwords import STOPWORDS
 from licensedcode.tokenize import index_tokenizer
@@ -718,6 +719,7 @@ class LicenseMatch(object):
     # location at once to avoid reprocessing many times the original text
     def matched_text(
         self,
+        yaml_safe=False,
         whole_lines=False,
         highlight=True,
         highlight_matched='{}',
@@ -744,7 +746,7 @@ class LicenseMatch(object):
         if whole_lines and query.has_long_lines:
             whole_lines = False
 
-        return ''.join(get_full_matched_text(
+        matched_text = ''.join(get_full_matched_text(
             match=self,
             location=query.location,
             query_string=query.query_string,
@@ -756,6 +758,11 @@ class LicenseMatch(object):
             _usecache=_usecache
         )).rstrip()
 
+        if yaml_safe:
+            return get_yaml_safe_text(text=matched_text)
+        else:
+            return matched_text
+
     def to_dict(
         self,
         license_url_template=SCANCODE_LICENSEDB_URL,
@@ -763,6 +770,7 @@ class LicenseMatch(object):
         include_text=False,
         license_text_diagnostics=False,
         whole_lines=True,
+        yaml_safe=False,
     ):
         """
         Return a "result" scan data built from a LicenseMatch object.
@@ -770,12 +778,12 @@ class LicenseMatch(object):
         matched_text = None
         if include_text:
             if license_text_diagnostics:
-                matched_text = self.matched_text(whole_lines=False, highlight=True)
+                matched_text = self.matched_text(whole_lines=False, highlight=True, yaml_safe=yaml_safe)
             else:
                 if whole_lines:
-                    matched_text = self.matched_text(whole_lines=True, highlight=False)
+                    matched_text = self.matched_text(whole_lines=True, highlight=False, yaml_safe=yaml_safe)
                 else:
-                    matched_text = self.matched_text(whole_lines=False, highlight=False)
+                    matched_text = self.matched_text(whole_lines=False, highlight=False, yaml_safe=yaml_safe)
 
         result = {}
 
