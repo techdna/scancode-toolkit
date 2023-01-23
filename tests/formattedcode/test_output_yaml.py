@@ -32,6 +32,16 @@ def test_yaml():
     check_yaml_scan(expected, result_file, regen=REGEN_TEST_FIXTURES)
 
 
+def test_yaml_is_valid_and_readable():
+    test_dir = test_env.get_test_loc('json/with-package-and-license')
+    result_file = test_env.get_temp_file('json')
+    args = [
+        '-clipeu', '--license-text', '--classify', '--summary',
+        '--license-clarity-score', test_dir, '--yaml', result_file]
+    run_scan_click(args)
+    data = saneyaml.load(open(result_file).read())
+
+
 @pytest.mark.scanslow
 def test_scan_output_does_not_truncate_copyright_yaml():
     test_dir = test_env.get_test_loc('yaml/tree/scan/')

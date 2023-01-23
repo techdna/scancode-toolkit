@@ -9,6 +9,7 @@
 #
 
 import os
+import json
 
 import pytest
 
@@ -31,6 +32,18 @@ def test_json_pretty_print():
     run_scan_click(args)
     expected = test_env.get_test_loc('json/simple-expected.jsonpp')
     check_json_scan(expected, result_file, remove_file_date=True, regen=REGEN_TEST_FIXTURES)
+
+
+def test_json_is_valid_and_readable():
+    test_dir = test_env.get_test_loc('json/with-package-and-license')
+    result_file = test_env.get_temp_file('json')
+    args = [
+        '-clipeu', '--license-text', '--classify', '--summary',
+        '--license-clarity-score', test_dir, '--json-pp', result_file]
+    run_scan_click(args)
+    
+    with open(result_file, 'r') as file_handler:
+        data = json.load(file_handler)
 
 
 def test_json_compact():
