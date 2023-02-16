@@ -7,11 +7,12 @@
 # See https://aboutcode.org for more information about nexB OSS projects.
 #
 
-FROM python:3.6-slim-buster 
+FROM python:3.6-slim-buster
 
 # Requirements as per https://scancode-toolkit.readthedocs.io/en/latest/getting-started/install.html
 RUN apt-get update \
- && apt-get install -y bzip2 xz-utils zlib1g libxml2-dev libxslt1-dev libgomp1 libpopt0\
+ && apt-get install -y bzip2 xz-utils zlib1g libxml2-dev libxslt1-dev libgomp1 libpopt0 \
+ build-essential p7zip-full libarchive-tools \
  && apt-get clean \
  && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
